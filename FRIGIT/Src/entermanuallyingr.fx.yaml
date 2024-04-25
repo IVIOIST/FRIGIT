@@ -1,0 +1,161 @@
+entermanuallyingr As screen:
+    Fill: =RGBA(242, 242, 242, 1)
+    Height: =932
+    LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
+    Width: =430
+
+    "'Rectangle 31' As rectangle":
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        DisabledFill: =RGBA(166, 166, 166, 1)
+        Fill: =RGBA(217, 217, 217, 1)
+        FocusedBorderThickness: =4
+        Height: =427
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =342
+        X: =44
+        Y: =151
+        ZIndex: =1
+
+    empty_box As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledFill: =RGBA(166, 166, 166, 1)
+        Fill: =RGBA(128, 128, 128, 1)
+        FocusedBorderThickness: =4
+        Height: =43
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =311
+        X: =58
+        Y: =227
+        ZIndex: =2
+
+    empty_box_1 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledFill: =RGBA(166, 166, 166, 1)
+        Fill: =RGBA(128, 128, 128, 1)
+        FocusedBorderThickness: =4
+        Height: =43
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =311
+        X: =58
+        Y: =322
+        ZIndex: =3
+
+    empty_box_2 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledFill: =RGBA(166, 166, 166, 1)
+        Fill: =RGBA(128, 128, 128, 1)
+        FocusedBorderThickness: =4
+        Height: =43
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =311
+        X: =58
+        Y: =419
+        ZIndex: =4
+
+    Name As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        Color: =RGBA(0, 0, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        FontWeight: =FontWeight.Semibold
+        Height: =26
+        LineHeight: =1.171875
+        PaddingBottom: =0
+        PaddingLeft: =0
+        PaddingRight: =0
+        PaddingTop: =0
+        Size: =9
+        Text: ="Name"
+        VerticalAlign: =VerticalAlign.Top
+        Width: =161
+        X: =58
+        Y: =201
+        ZIndex: =5
+
+    Expiry As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        Color: =RGBA(0, 0, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        FontWeight: =FontWeight.Semibold
+        Height: =26
+        LineHeight: =1.171875
+        PaddingBottom: =0
+        PaddingLeft: =0
+        PaddingRight: =0
+        PaddingTop: =0
+        Size: =9
+        Text: ="Expiry"
+        VerticalAlign: =VerticalAlign.Top
+        Width: =161
+        X: =58
+        Y: =303
+        ZIndex: =6
+
+    Quantity As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        Color: =RGBA(0, 0, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        FontWeight: =FontWeight.Semibold
+        Height: =26
+        LineHeight: =1.171875
+        PaddingBottom: =0
+        PaddingLeft: =0
+        PaddingRight: =0
+        PaddingTop: =0
+        Size: =9
+        Text: ="Quantity"
+        VerticalAlign: =VerticalAlign.Top
+        Width: =161
+        X: =58
+        Y: =401
+        ZIndex: =7
+
+    Back_button As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledFill: =RGBA(166, 166, 166, 1)
+        Fill: =RGBA(128, 128, 128, 1)
+        FocusedBorderThickness: =4
+        Height: =29
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =68
+        X: =58
+        Y: =505
+        ZIndex: =8
+
+    enter_manually_button As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledFill: =RGBA(166, 166, 166, 1)
+        Fill: =RGBA(128, 128, 128, 1)
+        FocusedBorderThickness: =4
+        Height: =39
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =159
+        X: =134
+        Y: =495
+        ZIndex: =9
+
