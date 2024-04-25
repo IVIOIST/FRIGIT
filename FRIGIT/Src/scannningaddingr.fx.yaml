@@ -1,0 +1,53 @@
+scannningaddingr As screen:
+    Fill: =RGBA(242, 242, 242, 1)
+    Height: =932
+    LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
+    Width: =430
+
+    "'Rectangle 29' As image":
+        BorderColor: =RGBA(28.999998, 173.63997, 255, 1)
+        BorderThickness: =3
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =371
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: =image2706941
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =289
+        X: =71
+        Y: =176
+        ZIndex: =1
+
+    enter_manually_button_1 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledFill: =RGBA(166, 166, 166, 1)
+        Fill: =RGBA(128, 128, 128, 1)
+        FocusedBorderThickness: =4
+        Height: =39
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =159
+        X: =136
+        Y: =590
+        ZIndex: =2
+
+    Back_button_1 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledFill: =RGBA(166, 166, 166, 1)
+        Fill: =RGBA(128, 128, 128, 1)
+        FocusedBorderThickness: =4
+        Height: =29
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =68
+        X: =71
+        Y: =600
+        ZIndex: =3
+
