@@ -66,7 +66,7 @@
       "MetaDataIDKey": "",
       "Name": "Account_1",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 5,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -556,7 +556,7 @@
       "MetaDataIDKey": "",
       "Name": "Frame 12_1",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 6,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -779,7 +779,7 @@
       "MetaDataIDKey": "",
       "Name": "homebar_1",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 1,
+      "ParentIndex": 8,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -982,7 +982,7 @@
       "MetaDataIDKey": "",
       "Name": "No Account",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 3,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2152,7 +2152,7 @@
       "MetaDataIDKey": "",
       "Name": "Rectangle 21_1",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 4,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2330,7 +2330,7 @@
       "MetaDataIDKey": "",
       "Name": "Rectangle 22",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 7,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2533,7 +2533,7 @@
       "MetaDataIDKey": "",
       "Name": "Sign in_2",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 8,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {

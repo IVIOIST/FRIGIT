@@ -547,7 +547,7 @@
       "MetaDataIDKey": "",
       "Name": "email_box_animation",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 6,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -750,7 +750,7 @@
       "MetaDataIDKey": "",
       "Name": "Password",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 3,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1053,7 +1053,7 @@
       "MetaDataIDKey": "",
       "Name": "password_box_animation",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 7,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1409,7 +1409,7 @@
       "MetaDataIDKey": "",
       "Name": "Rectangle 27",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 4,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1940,7 +1940,7 @@
       "MetaDataIDKey": "",
       "Name": "Sign in_1",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 5,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {

@@ -66,7 +66,7 @@
       "MetaDataIDKey": "",
       "Name": "Brekkie",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 8,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -369,7 +369,7 @@
       "MetaDataIDKey": "",
       "Name": "Component 1",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 3,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -547,7 +547,7 @@
       "MetaDataIDKey": "",
       "Name": "Component 1_1",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 4,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -725,7 +725,7 @@
       "MetaDataIDKey": "",
       "Name": "Component 1_2",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 5,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -928,7 +928,7 @@
       "MetaDataIDKey": "",
       "Name": "Dinner",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 7,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1637,7 +1637,7 @@
       "MetaDataIDKey": "",
       "Name": "Frame 4",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 9,
+      "ParentIndex": 8,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2117,7 +2117,7 @@
       "MetaDataIDKey": "",
       "Name": "Lunch",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 6,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2420,7 +2420,7 @@
       "MetaDataIDKey": "",
       "Name": "preferencesbar",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 2,
+      "ParentIndex": 9,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
