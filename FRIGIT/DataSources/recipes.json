@@ -27,21 +27,21 @@
       "Author#Claims": "Created By Claims",
       "ComplianceAssetId": "Compliance Asset Id",
       "Created": "Created",
+      "description": "description",
       "Editor": "Modified By",
       "Editor#Claims": "Modified By Claims",
       "ID": "ID",
+      "ingredient_names": "ingredient_names",
       "Modified": "Modified",
       "OData__ColorTag": "Color Tag",
-      "Title": "Title",
-      "user_email": "user_email",
-      "user_name": "user_name",
-      "user_password": "user_password"
+      "quantity": "quantity",
+      "Title": "Title"
     },
     "DatasetName": "https://unisydneyedu.sharepoint.com/sites/FRIGIT",
     "EncodeDataset": true,
     "IsSampleData": false,
     "IsWritable": true,
-    "Name": "user_list",
+    "Name": "recipes",
     "Type": "ConnectedDataSourceInfo"
   }
 ]

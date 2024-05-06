@@ -8,18 +8,30 @@
     "datasets": {
       "https://unisydneyedu.sharepoint.com/sites/FRIGIT": {
         "dataSources": {
+          "recipes": {
+            "tableName": "51ff9626-dc88-4a9d-99cf-aa598f77210b"
+          },
+          "user_appliances": {
+            "tableName": "3d45c8aa-616d-4940-8249-9352f64d3a96"
+          },
           "user_ingredients": {
             "tableName": "3070ca2a-9b73-4da8-bce3-b1737e826053"
           },
           "user_list": {
             "tableName": "785d7cf8-f95e-4bb8-921c-30465b1a79e6"
+          },
+          "user_preferences": {
+            "tableName": "be98907f-d6d9-4bdd-b18b-6482d40b5b48"
           }
         }
       }
     },
     "dataSources": [
       "user_list",
-      "user_ingredients"
+      "user_ingredients",
+      "user_preferences",
+      "user_appliances",
+      "recipes"
     ],
     "dependencies": {},
     "dependents": [],
