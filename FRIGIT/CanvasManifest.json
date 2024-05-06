@@ -133,12 +133,6 @@
     "UserLocale": "en-US"
   },
   "ScreenOrder": [
-    "entermanuallyingr",
-    "scannningaddingr",
-    "PreferencesFrame",
-    "signinpage",
-    "PreferencesFrame1",
-    "BookmarkFrame",
-    "ExploreFrame"
+    "entermanuallyingr"
   ]
 }
