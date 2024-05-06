@@ -23,6 +23,7 @@
       "{TriggerWindowEndToken}": "Trigger Window End Token",
       "{TriggerWindowStartToken}": "Trigger Window Start Token",
       "{VersionNumber}": "Version number",
+      "appliances": "appliances",
       "Author": "Created By",
       "Author#Claims": "Created By Claims",
       "ComplianceAssetId": "Compliance Asset Id",
@@ -33,15 +34,13 @@
       "Modified": "Modified",
       "OData__ColorTag": "Color Tag",
       "Title": "Title",
-      "user_email": "user_email",
-      "user_name": "user_name",
-      "user_password": "user_password"
+      "user_id": "user_id"
     },
     "DatasetName": "https://unisydneyedu.sharepoint.com/sites/FRIGIT",
     "EncodeDataset": true,
     "IsSampleData": false,
     "IsWritable": true,
-    "Name": "user_list",
+    "Name": "user_appliances",
     "Type": "ConnectedDataSourceInfo"
   }
 ]
