@@ -2,6 +2,24 @@ Kitchen As screen:
     Fill: =RGBA(242, 242, 242, 1)
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
+    Label1_3 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(29, 174, 255, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Bold
+        Height: =101
+        Size: =48
+        Text: ="Kitchen"
+        Width: =244
+        X: =148
+        Y: =96
+        ZIndex: =1
+
     "Gallery1 As gallery.'BrowseLayout_Vertical_ThreeTextVariant_ver5.0'":
         BorderColor: =RGBA(166, 166, 166, 1)
         DelayItemLoading: =true
@@ -117,24 +135,6 @@ Kitchen As screen:
             Visible: =ThisItem.IsSelected
             Width: =4
             ZIndex: =6
-
-    Label1_3 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        Color: =RGBA(29, 174, 255, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Font: =Font.'Segoe UI'
-        FontWeight: =FontWeight.Bold
-        Height: =101
-        Size: =48
-        Text: ="Kitchen"
-        Width: =244
-        X: =148
-        Y: =96
-        ZIndex: =1
 
     Label1_4 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
