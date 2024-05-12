@@ -1054,49 +1054,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Kitchen.Container3.Gallery1_1.TabIndex"
+                  "fullyQualifiedName": "Kitchen.Gallery1.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Kitchen.Container3.Gallery1_1.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "Kitchen",
-                "type": "Kitchen.Container3.Gallery1_1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 4
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Kitchen.Container3.Gallery1_1.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Kitchen.Container3.Gallery1_1.AccessibleLabel",
+                  "fullyQualifiedName": "Kitchen.Gallery1.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Kitchen",
-                "type": "Kitchen.Container3.Gallery1_1"
+                "type": "Kitchen.Gallery1"
               }
             }
           ],
@@ -1114,19 +1084,49 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Kitchen.Container3.Gallery1_1.NextArrow4_1.TabIndex"
+                  "fullyQualifiedName": "Kitchen.Gallery1.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Kitchen.Container3.Gallery1_1.NextArrow4_1.TabIndex",
+                  "fullyQualifiedName": "Kitchen.Gallery1.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "Kitchen",
-                "type": "Kitchen.Container3.Gallery1_1.NextArrow4_1"
+                "type": "Kitchen.Gallery1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 4
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Kitchen.Gallery1.NextArrow4.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Kitchen.Gallery1.NextArrow4.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "Kitchen",
+                "type": "Kitchen.Gallery1.NextArrow4"
               }
             }
           ],

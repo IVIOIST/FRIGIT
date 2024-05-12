@@ -55,6 +55,20 @@
     "OverridableProperties": {},
     "Version": "2.1.0"
   },
+  "circle": {
+    "CustomGroupControlTemplateName": "",
+    "FirstParty": true,
+    "Id": "http://microsoft.com/appmagic/shapes/circle",
+    "IsComponentTemplate": false,
+    "IsCustomGroupControlTemplate": false,
+    "IsPcfControl": false,
+    "IsPremiumPcfControl": false,
+    "IsWidgetTemplate": true,
+    "LastModifiedTimestamp": "0",
+    "Name": "circle",
+    "OverridableProperties": {},
+    "Version": "2.3.0"
+  },
   "gallery": {
     "CustomGroupControlTemplateName": "",
     "FirstParty": true,
@@ -82,6 +96,20 @@
     "Name": "galleryTemplate",
     "OverridableProperties": {},
     "Version": "1.0"
+  },
+  "group": {
+    "CustomGroupControlTemplateName": "",
+    "FirstParty": true,
+    "Id": "http://microsoft.com/appmagic/group",
+    "IsComponentTemplate": false,
+    "IsCustomGroupControlTemplate": false,
+    "IsPcfControl": false,
+    "IsPremiumPcfControl": false,
+    "IsWidgetTemplate": false,
+    "LastModifiedTimestamp": "0",
+    "Name": "group",
+    "OverridableProperties": {},
+    "Version": "1"
   },
   "groupContainer": {
     "CustomGroupControlTemplateName": "",
