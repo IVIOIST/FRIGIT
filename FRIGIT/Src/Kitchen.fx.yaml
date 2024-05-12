@@ -352,20 +352,21 @@ Kitchen As screen:
             FocusedBorderColor: =ColorFade(Self.Fill, -75%)
             Font: =Font.'Segoe UI'
             FontWeight: =FontWeight.Semibold
+            Height: =41
             HoverBorderColor: =RGBA(0, 0, 0, 0)
-            HoverColor: =RGBA(255, 255, 255, 1)
-            HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
+            HoverColor: =RGBA(29, 174, 255, 1)
+            HoverFill: =RGBA(255,255,255)
             PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
-            PressedColor: =RGBA(255, 255, 255, 1)
-            PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+            PressedColor: =RGBA(29, 174, 255, 1)
+            PressedFill: =RGBA(255,255,255)
             RadiusBottomLeft: =0
             RadiusBottomRight: =0
             RadiusTopLeft: =0
             RadiusTopRight: =0
             Size: =24
             Text: ="Add"
-            Width: =280
-            X: =200
+            Width: =76
+            X: =405
             Y: =25
             ZIndex: =2
 
