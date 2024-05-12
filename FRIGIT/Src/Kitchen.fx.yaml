@@ -38,19 +38,16 @@ Kitchen As screen:
         Y: =98
         ZIndex: =2
 
-    Rectangle1_1 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledFill: =RGBA(166, 166, 166, 1)
+    Container2_1 As groupContainer.manualLayoutContainer:
         Fill: =RGBA(255, 255, 255, 1)
-        FocusedBorderThickness: =4
-        HoverFill: =RGBA(255, 255, 255, 1)
-        OnSelect: =Navigate(
-        PressedFill: =RGBA(255, 255, 255, 1)
-        Width: =531
-        X: =55
-        Y: =981
+        Height: =95
+        RadiusBottomLeft: =9
+        RadiusBottomRight: =9
+        RadiusTopLeft: =9
+        RadiusTopRight: =9
+        Width: =568
+        X: =40
+        Y: =985
         ZIndex: =3
 
     Button1_3 As button:
@@ -206,6 +203,6 @@ Kitchen As screen:
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =36
         X: =498
-        Y: =1000
+        Y: =1005
         ZIndex: =9
 
