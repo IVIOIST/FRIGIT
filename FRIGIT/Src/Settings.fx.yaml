@@ -17,7 +17,7 @@ Settings As screen:
         Text: ="Preferences"
         Width: =442
         X: =52
-        Y: =120
+        Y: =96
         ZIndex: =1
 
     Rectangle1_2 As rectangle:

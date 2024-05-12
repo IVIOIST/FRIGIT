@@ -18,7 +18,7 @@ Home As screen:
         Text: ="Explore"
         Width: =243
         X: =25
-        Y: =120
+        Y: =96
         ZIndex: =1
 
     Label1_1 As label:
@@ -39,7 +39,7 @@ Home As screen:
             "
         Width: =244
         X: =268
-        Y: =120
+        Y: =96
         ZIndex: =2
 
     Rectangle1 As rectangle:

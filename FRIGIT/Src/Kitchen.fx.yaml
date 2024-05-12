@@ -17,7 +17,7 @@ Kitchen As screen:
         Text: ="Kitchen"
         Width: =244
         X: =148
-        Y: =120
+        Y: =96
         ZIndex: =1
 
     Label1_4 As label:
@@ -35,7 +35,7 @@ Kitchen As screen:
         Text: ="My"
         Width: =243
         X: =45
-        Y: =122
+        Y: =98
         ZIndex: =2
 
     Rectangle1_1 As rectangle:
