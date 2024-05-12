@@ -72,7 +72,7 @@ Home As screen:
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(29, 174, 255, 1)
         HoverFill: =RGBA(255,255,255,0)
-        OnSelect: =Navigate(
+        OnSelect: =Navigate(Kitchen)
         PressedBorderColor: =RGBA(255,255,255,0)
         PressedColor: =RGBA(255, 255, 255, 1)
         PressedFill: =RGBA(255,255,255,0)
@@ -103,7 +103,7 @@ Home As screen:
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(29, 174, 255, 1)
         HoverFill: =RGBA(255,255,255,0)
-        OnSelect: =Navigate(
+        OnSelect: =Navigate(Home)
         PressedBorderColor: =RGBA(255,255,255,0)
         PressedColor: =RGBA(255, 255, 255, 1)
         PressedFill: =RGBA(255,255,255,0)
@@ -134,7 +134,7 @@ Home As screen:
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(29, 174, 255, 1)
         HoverFill: =RGBA(255,255,255,0)
-        OnSelect: =Navigate(
+        OnSelect: =Navigate(Settings)
         PressedBorderColor: =RGBA(255,255,255,0)
         PressedColor: =RGBA(255, 255, 255, 1)
         PressedFill: =RGBA(255,255,255,0)
