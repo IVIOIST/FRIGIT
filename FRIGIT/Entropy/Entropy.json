@@ -44,17 +44,18 @@
     "Label1_4": 16,
     "Label4": 138,
     "Login": 90,
+    "password_input": 133,
     "Settings": 17,
     "Test_7F478737223C4B69": 2,
-    "TextInput3": 131,
-    "TextInput3_1": 133
+    "username_input": 131
   },
   "DoesTestStepsMetadataExist": true,
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "05/12/2024 02:39:58",
+  "HeaderLastSavedDateTimeUTC": "05/12/2024 03:42:13",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
+    "42e37ee2-cf27-43cf-957a-f88c367d433c": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/7ed77af2589f4f6baa54345c1e311d02\"",
     "73c82abf-33bd-4e78-9731-4cc6d8f34076": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/b60d9248a0a4448789b9dbea0119eefe\"",
     "bebc8f8c-506f-4e55-a7e6-08f3956f308b": "\"/providers/microsoft.powerapps/apis/shared_office365users/connections/bd21a3ef4d8c475aa60237290046e12b\"",
     "e7b3922e-9165-4d2b-99a7-08850a5372fb": "\"/providers/microsoft.powerapps/apis/shared_office365/connections/5d9a349a285d40e095e915ab3f4c4fa9\""
@@ -96,7 +97,7 @@
     "recipes": 2,
     "user_appliances": 3,
     "user_ingredients": 4,
-    "user_list": 5,
+    "user_logins": 5,
     "user_preferences": 6
   },
   "OrderGroupControls": {},
@@ -153,10 +154,10 @@
     "Label1_4": {},
     "Label4": {},
     "Login": {},
+    "password_input": {},
     "Settings": {},
     "Test_7F478737223C4B69": {},
-    "TextInput3": {},
-    "TextInput3_1": {}
+    "username_input": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
@@ -203,10 +204,10 @@
     "Label1_4": 10,
     "Label4": 33,
     "Login": 0,
+    "password_input": 30,
     "Settings": 0,
     "Test_7F478737223C4B69": 0,
-    "TextInput3": 28,
-    "TextInput3_1": 30
+    "username_input": 28
   },
   "ResourcesJsonIndices": {
     "Image-image2706832": 0,

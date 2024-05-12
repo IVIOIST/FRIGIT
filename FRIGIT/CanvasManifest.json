@@ -99,7 +99,7 @@
       "zeroalltabindexes": true
     },
     "Author": "",
-    "BindingErrorCount": 11,
+    "BindingErrorCount": 13,
     "ContainsThirdPartyPcfControls": false,
     "DefaultConnectedDataSourceMaxGetRowsCount": 500,
     "DocumentAppType": "Phone",
@@ -118,7 +118,7 @@
     "ManualOfflineProfileId": "",
     "Name": "Frigit app",
     "OriginatingVersion": "1.326",
-    "ParserErrorCount": 22,
+    "ParserErrorCount": 25,
     "ShowStatusBar": false
   },
   "PublishInfo": {

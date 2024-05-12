@@ -33,15 +33,14 @@
       "Modified": "Modified",
       "OData__ColorTag": "Color Tag",
       "Title": "Title",
-      "user_email": "user_email",
-      "user_name": "user_name",
-      "user_password": "user_password"
+      "user_password": "user_password",
+      "user_role": "user_role"
     },
-    "DatasetName": "https://unisydneyedu.sharepoint.com/sites/FRIGIT",
+    "DatasetName": "https://unisydneyedu-my.sharepoint.com/personal/esun0349_uni_sydney_edu_au",
     "EncodeDataset": true,
     "IsSampleData": false,
     "IsWritable": true,
-    "Name": "user_list",
+    "Name": "user_logins",
     "Type": "ConnectedDataSourceInfo"
   }
 ]

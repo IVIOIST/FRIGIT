@@ -1,4 +1,26 @@
 {
+  "42e37ee2-cf27-43cf-957a-f88c367d433c": {
+    "connectionRef": {
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1685/1.0.1685.3700/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
+    },
+    "datasets": {
+      "https://unisydneyedu-my.sharepoint.com/personal/esun0349_uni_sydney_edu_au": {
+        "dataSources": {
+          "user_logins": {
+            "tableName": "c9d9c634-4865-428c-a28a-0b3388f0f31b"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "user_logins"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "42e37ee2-cf27-43cf-957a-f88c367d433c"
+  },
   "73c82abf-33bd-4e78-9731-4cc6d8f34076": {
     "connectionRef": {
       "displayName": "SharePoint",
@@ -17,9 +39,6 @@
           "user_ingredients": {
             "tableName": "3070ca2a-9b73-4da8-bce3-b1737e826053"
           },
-          "user_list": {
-            "tableName": "785d7cf8-f95e-4bb8-921c-30465b1a79e6"
-          },
           "user_preferences": {
             "tableName": "be98907f-d6d9-4bdd-b18b-6482d40b5b48"
           }
@@ -27,7 +46,6 @@
       }
     },
     "dataSources": [
-      "user_list",
       "user_ingredients",
       "user_preferences",
       "user_appliances",
