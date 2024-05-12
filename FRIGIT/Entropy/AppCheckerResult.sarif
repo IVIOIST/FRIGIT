@@ -14,12 +14,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Settings.Icon2_2.OnSelect"
+                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Settings.Icon2_2.OnSelect",
+                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -31,8 +31,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Settings",
-                "type": "Settings.Icon2_2"
+                "module": "Kitchen",
+                "type": "Kitchen.Icon2_1"
               }
             }
           ],
@@ -50,12 +50,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Settings.Icon2_2.OnSelect"
+                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Settings.Icon2_2.OnSelect",
+                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -67,8 +67,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Settings",
-                "type": "Settings.Icon2_2"
+                "module": "Kitchen",
+                "type": "Kitchen.Icon2_1"
               }
             }
           ],
@@ -90,12 +90,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Settings.Icon2_2.OnSelect"
+                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Settings.Icon2_2.OnSelect",
+                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -107,8 +107,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Settings",
-                "type": "Settings.Icon2_2"
+                "module": "Kitchen",
+                "type": "Kitchen.Icon2_1"
               }
             }
           ],
@@ -129,12 +129,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Settings.Icon1_2.OnSelect"
+                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Settings.Icon1_2.OnSelect",
+                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -146,8 +146,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Settings",
-                "type": "Settings.Icon1_2"
+                "module": "Kitchen",
+                "type": "Kitchen.Icon1_1"
               }
             }
           ],
@@ -165,12 +165,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Settings.Icon1_2.OnSelect"
+                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Settings.Icon1_2.OnSelect",
+                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -182,8 +182,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Settings",
-                "type": "Settings.Icon1_2"
+                "module": "Kitchen",
+                "type": "Kitchen.Icon1_1"
               }
             }
           ],
@@ -205,12 +205,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Settings.Icon1_2.OnSelect"
+                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Settings.Icon1_2.OnSelect",
+                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -222,8 +222,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Settings",
-                "type": "Settings.Icon1_2"
+                "module": "Kitchen",
+                "type": "Kitchen.Icon1_1"
               }
             }
           ],
@@ -244,12 +244,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Settings.Icon3_2.OnSelect"
+                  "fullyQualifiedName": "Kitchen.Icon3_1.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Settings.Icon3_2.OnSelect",
+                  "fullyQualifiedName": "Kitchen.Icon3_1.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -261,8 +261,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Settings",
-                "type": "Settings.Icon3_2"
+                "module": "Kitchen",
+                "type": "Kitchen.Icon3_1"
               }
             }
           ],
@@ -280,12 +280,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Settings.Icon3_2.OnSelect"
+                  "fullyQualifiedName": "Kitchen.Icon3_1.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Settings.Icon3_2.OnSelect",
+                  "fullyQualifiedName": "Kitchen.Icon3_1.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -297,8 +297,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Settings",
-                "type": "Settings.Icon3_2"
+                "module": "Kitchen",
+                "type": "Kitchen.Icon3_1"
               }
             }
           ],
@@ -320,12 +320,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Settings.Icon3_2.OnSelect"
+                  "fullyQualifiedName": "Kitchen.Icon3_1.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Settings.Icon3_2.OnSelect",
+                  "fullyQualifiedName": "Kitchen.Icon3_1.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -337,8 +337,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Settings",
-                "type": "Settings.Icon3_2"
+                "module": "Kitchen",
+                "type": "Kitchen.Icon3_1"
               }
             }
           ],
@@ -914,351 +914,6 @@
                 "member": "OnSelect",
                 "module": "Home",
                 "type": "Home.Icon3"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Navigate"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrNeedControl-Func",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Kitchen",
-                "type": "Kitchen.Icon2_1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrOperandExpected",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Kitchen",
-                "type": "Kitchen.Icon2_1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Eof",
-              "ParenClose"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Kitchen",
-                "type": "Kitchen.Icon2_1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Navigate"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrNeedControl-Func",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Kitchen",
-                "type": "Kitchen.Icon1_1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrOperandExpected",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Kitchen",
-                "type": "Kitchen.Icon1_1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Eof",
-              "ParenClose"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Kitchen",
-                "type": "Kitchen.Icon1_1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Navigate"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrNeedControl-Func",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Kitchen.Icon3_1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Kitchen.Icon3_1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Kitchen",
-                "type": "Kitchen.Icon3_1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrOperandExpected",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Kitchen.Icon3_1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Kitchen.Icon3_1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Kitchen",
-                "type": "Kitchen.Icon3_1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Eof",
-              "ParenClose"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Kitchen.Icon3_1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Kitchen.Icon3_1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Kitchen",
-                "type": "Kitchen.Icon3_1"
               }
             }
           ],
@@ -1650,6 +1305,36 @@
               },
               "properties": {
                 "member": "image2706941",
+                "module": "App",
+                "type": "App"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "app-UnusedMediaResources",
+          "ruleIndex": 5
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "App.wearenotthesame-v0-amxhlh6ih5hc1"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "App.wearenotthesame-v0-amxhlh6ih5hc1",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "wearenotthesame-v0-amxhlh6ih5hc1",
                 "module": "App",
                 "type": "App"
               }

@@ -112,15 +112,81 @@ Login As screen:
             HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
             OnSelect: |
                 =Set(
+                    usrjs,
+                    false
+                );
+                Set(
+                    usrjc,
+                    false
+                );
+                Set(
+                    usrsf,
+                    false
+                );
+                Set(
                     userrolevalue,
                     LookUp(
                         user_logins,
                         user_name = username_input.Text And user_password = password_input.Text
                     ).user_role
                 );
+                Set(
+                    validusr,
+                    LookUp(
+                        user_logins,
+                        user_name = username_input.Text And user_password = password_input.Text
+                    ).user_name
+                );
+                If(
+                    validusr = "John Smith",
+                    Set(
+                        usrjs,
+                        true
+                    )
+                );
+                If(
+                    validusr = "John Citizen",
+                    Set(
+                        usrjc,
+                        true
+                    )
+                );
+                If(
+                    validusr = "Stephen Fry",
+                    Set(
+                        usrsf,
+                        true
+                    )
+                );
+                
+                If(
+                    validusr = "John Smith",
+                    Set(
+                        curr_usr,
+                        "John Smith"
+                    )
+                );
+                If(
+                    validusr = "John Citizen",
+                    Set(
+                        curr_usr,
+                        "John Smith"
+                    )
+                );
+                If(
+                    validusr = "Stephen Fry",
+                    Set(
+                        curr_usr,
+                        "Stephen Fry"
+                    )
+                );
                 If(
                     IsBlankOrError(userrolevalue),
-                    Notify("Incorret Username or Password");Set(labeltxt,true),
+                    Notify("Incorret Username or Password");
+                    Set(
+                        labeltxt,
+                        true
+                    ),
                     Switch(
                         userrolevalue,
                         "Administrator",
