@@ -14,12 +14,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Home.Label1.OnSelect"
+                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Home.Label1.OnSelect",
+                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -31,8 +31,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Label1"
+                "module": "Kitchen",
+                "type": "Kitchen.Icon2_1"
               }
             }
           ],
@@ -50,12 +50,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Home.Label1.OnSelect"
+                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Home.Label1.OnSelect",
+                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -67,8 +67,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Label1"
+                "module": "Kitchen",
+                "type": "Kitchen.Icon2_1"
               }
             }
           ],
@@ -90,12 +90,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Home.Label1.OnSelect"
+                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Home.Label1.OnSelect",
+                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -107,8 +107,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Label1"
+                "module": "Kitchen",
+                "type": "Kitchen.Icon2_1"
               }
             }
           ],
@@ -129,12 +129,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Home.Label1_1.OnSelect"
+                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Home.Label1_1.OnSelect",
+                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -146,8 +146,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Label1_1"
+                "module": "Kitchen",
+                "type": "Kitchen.Icon1_1"
               }
             }
           ],
@@ -165,12 +165,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Home.Label1_1.OnSelect"
+                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Home.Label1_1.OnSelect",
+                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -182,8 +182,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Label1_1"
+                "module": "Kitchen",
+                "type": "Kitchen.Icon1_1"
               }
             }
           ],
@@ -205,12 +205,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Home.Label1_1.OnSelect"
+                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Home.Label1_1.OnSelect",
+                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -222,8 +222,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Label1_1"
+                "module": "Kitchen",
+                "type": "Kitchen.Icon1_1"
               }
             }
           ],
@@ -359,12 +359,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Home.Icon2.OnSelect"
+                  "fullyQualifiedName": "Settings.Icon2_2.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Home.Icon2.OnSelect",
+                  "fullyQualifiedName": "Settings.Icon2_2.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -376,8 +376,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Icon2"
+                "module": "Settings",
+                "type": "Settings.Icon2_2"
               }
             }
           ],
@@ -395,12 +395,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Home.Icon2.OnSelect"
+                  "fullyQualifiedName": "Settings.Icon2_2.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Home.Icon2.OnSelect",
+                  "fullyQualifiedName": "Settings.Icon2_2.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -412,8 +412,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Icon2"
+                "module": "Settings",
+                "type": "Settings.Icon2_2"
               }
             }
           ],
@@ -435,12 +435,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Home.Icon2.OnSelect"
+                  "fullyQualifiedName": "Settings.Icon2_2.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Home.Icon2.OnSelect",
+                  "fullyQualifiedName": "Settings.Icon2_2.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -452,8 +452,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Icon2"
+                "module": "Settings",
+                "type": "Settings.Icon2_2"
               }
             }
           ],
@@ -468,433 +468,6 @@
           },
           "ruleId": "app-ErrNeedControl-Func",
           "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Home.Icon3.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Home.Icon3.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Icon3"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrOperandExpected",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Home.Icon3.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Home.Icon3.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Icon3"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Eof",
-              "ParenClose"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Home.Icon3.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Home.Icon3.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Icon3"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Navigate"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrNeedControl-Func",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Home.Icon1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Home.Icon1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Icon1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrOperandExpected",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Home.Icon1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Home.Icon1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Icon1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Eof",
-              "ParenClose"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Home.Icon1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Home.Icon1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Icon1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Navigate"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrNeedControl-Func",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Login.Container1.Button2.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Login.Container1.Button2.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 1,
-                  "charOffset": 37,
-                  "snippet": {
-                    "text": ")"
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Login",
-                "type": "Login.Container1.Button2"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrBadToken",
-          "ruleIndex": 3
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Login.Container1.Button2.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Login.Container1.Button2.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 38,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Login",
-                "type": "Login.Container1.Button2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Eof",
-              "ParenClose"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Login.Container1.Button2.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Login.Container1.Button2.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 38,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Login",
-                "type": "Login.Container1.Button2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Eof",
-              "ParenClose"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Login.Container1.Button2.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Login.Container1.Button2.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 1,
-                  "charOffset": 24,
-                  "snippet": {
-                    "text": "("
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Login",
-                "type": "Login.Container1.Button2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Lookup"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrUnknownFunction",
-          "ruleIndex": 4
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Login.Container1.Button2.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Login.Container1.Button2.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 10,
-                  "charOffset": 25,
-                  "snippet": {
-                    "text": "user_login"
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Login",
-                "type": "Login.Container1.Button2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "user_login"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 5
         },
         {
           "locations": [
@@ -1131,12 +704,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Settings.Icon2_2.OnSelect"
+                  "fullyQualifiedName": "Home.Label1.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Settings.Icon2_2.OnSelect",
+                  "fullyQualifiedName": "Home.Label1.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -1148,8 +721,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Settings",
-                "type": "Settings.Icon2_2"
+                "module": "Home",
+                "type": "Home.Label1"
               }
             }
           ],
@@ -1167,12 +740,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Settings.Icon2_2.OnSelect"
+                  "fullyQualifiedName": "Home.Label1.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Settings.Icon2_2.OnSelect",
+                  "fullyQualifiedName": "Home.Label1.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -1184,8 +757,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Settings",
-                "type": "Settings.Icon2_2"
+                "module": "Home",
+                "type": "Home.Label1"
               }
             }
           ],
@@ -1207,12 +780,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Settings.Icon2_2.OnSelect"
+                  "fullyQualifiedName": "Home.Label1.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Settings.Icon2_2.OnSelect",
+                  "fullyQualifiedName": "Home.Label1.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -1224,8 +797,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Settings",
-                "type": "Settings.Icon2_2"
+                "module": "Home",
+                "type": "Home.Label1"
               }
             }
           ],
@@ -1246,12 +819,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect"
+                  "fullyQualifiedName": "Home.Label1_1.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect",
+                  "fullyQualifiedName": "Home.Label1_1.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -1263,8 +836,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Kitchen",
-                "type": "Kitchen.Icon2_1"
+                "module": "Home",
+                "type": "Home.Label1_1"
               }
             }
           ],
@@ -1282,12 +855,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect"
+                  "fullyQualifiedName": "Home.Label1_1.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect",
+                  "fullyQualifiedName": "Home.Label1_1.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -1299,8 +872,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Kitchen",
-                "type": "Kitchen.Icon2_1"
+                "module": "Home",
+                "type": "Home.Label1_1"
               }
             }
           ],
@@ -1322,12 +895,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect"
+                  "fullyQualifiedName": "Home.Label1_1.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect",
+                  "fullyQualifiedName": "Home.Label1_1.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -1339,8 +912,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Kitchen",
-                "type": "Kitchen.Icon2_1"
+                "module": "Home",
+                "type": "Home.Label1_1"
               }
             }
           ],
@@ -1361,12 +934,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect"
+                  "fullyQualifiedName": "Home.Icon2.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect",
+                  "fullyQualifiedName": "Home.Icon2.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -1378,8 +951,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Kitchen",
-                "type": "Kitchen.Icon1_1"
+                "module": "Home",
+                "type": "Home.Icon2"
               }
             }
           ],
@@ -1397,12 +970,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect"
+                  "fullyQualifiedName": "Home.Icon2.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect",
+                  "fullyQualifiedName": "Home.Icon2.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -1414,8 +987,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Kitchen",
-                "type": "Kitchen.Icon1_1"
+                "module": "Home",
+                "type": "Home.Icon2"
               }
             }
           ],
@@ -1437,12 +1010,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect"
+                  "fullyQualifiedName": "Home.Icon2.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect",
+                  "fullyQualifiedName": "Home.Icon2.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -1454,8 +1027,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Kitchen",
-                "type": "Kitchen.Icon1_1"
+                "module": "Home",
+                "type": "Home.Icon2"
               }
             }
           ],
@@ -1476,19 +1049,25 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Login.Container1.password_input.AccessibleLabel"
+                  "fullyQualifiedName": "Home.Icon1.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Login.Container1.password_input.AccessibleLabel",
+                  "fullyQualifiedName": "Home.Icon1.OnSelect",
                   "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
                 }
               },
               "properties": {
-                "member": "AccessibleLabel",
-                "module": "Login",
-                "type": "Login.Container1.password_input"
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Icon1"
               }
             }
           ],
@@ -1496,10 +1075,204 @@
             "id": "issue"
           },
           "properties": {
-            "level": "Medium"
+            "level": "High"
           },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 6
+          "ruleId": "app-ErrOperandExpected",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Icon1.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Icon1.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Icon1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Eof",
+              "ParenClose"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Icon1.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Icon1.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Icon1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Navigate"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrNeedControl-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Icon3.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Icon3.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Icon3"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrOperandExpected",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Icon3.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Icon3.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Icon3"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Eof",
+              "ParenClose"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Icon3.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Icon3.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Icon3"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Navigate"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrNeedControl-Func",
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -1529,7 +1302,37 @@
             "level": "Medium"
           },
           "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 6
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Login.Container1.password_input.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Login.Container1.password_input.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Login",
+                "type": "Login.Container1.password_input"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -1559,7 +1362,7 @@
             "level": "Medium"
           },
           "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 7
+          "ruleIndex": 4
         },
         {
           "locations": [
@@ -1589,7 +1392,7 @@
             "level": "Medium"
           },
           "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 7
+          "ruleIndex": 4
         },
         {
           "locations": [
@@ -1619,7 +1422,7 @@
             "level": "Medium"
           },
           "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 7
+          "ruleIndex": 4
         },
         {
           "locations": [
@@ -1649,7 +1452,7 @@
             "level": "Medium"
           },
           "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 7
+          "ruleIndex": 4
         },
         {
           "locations": [
@@ -1679,7 +1482,7 @@
             "level": "Medium"
           },
           "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 7
+          "ruleIndex": 4
         },
         {
           "locations": [
@@ -1709,7 +1512,7 @@
             "level": "Medium"
           },
           "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 7
+          "ruleIndex": 4
         },
         {
           "locations": [
@@ -1739,7 +1542,7 @@
             "level": "Medium"
           },
           "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 7
+          "ruleIndex": 4
         },
         {
           "locations": [
@@ -1769,7 +1572,7 @@
             "level": "Medium"
           },
           "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 7
+          "ruleIndex": 4
         },
         {
           "locations": [
@@ -1799,7 +1602,7 @@
             "level": "Medium"
           },
           "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 7
+          "ruleIndex": 4
         }
       ],
       "tool": {
@@ -1850,54 +1653,6 @@
               },
               "properties": {
                 "componentType": "app",
-                "level": "High",
-                "primaryCategory": "formula",
-                "whyFix": ""
-              }
-            },
-            {
-              "id": "app-ErrBadToken",
-              "messageStrings": {
-                "issue": {
-                  "text": "Unexpected characters. Characters are used in the formula in an unexpected way."
-                }
-              },
-              "properties": {
-                "componentType": "app",
-                "howToFix": [
-                  "Remove or replace the unexpected characters."
-                ],
-                "level": "High",
-                "primaryCategory": "formula",
-                "whyFix": ""
-              }
-            },
-            {
-              "id": "app-ErrUnknownFunction",
-              "messageStrings": {
-                "issue": {
-                  "text": "'{0}' is an unknown or unsupported function."
-                }
-              },
-              "properties": {
-                "componentType": "app",
-                "level": "High",
-                "primaryCategory": "formula",
-                "whyFix": ""
-              }
-            },
-            {
-              "id": "app-ErrInvalidName",
-              "messageStrings": {
-                "issue": {
-                  "text": "Name isn't valid. '{0}' isn't recognized."
-                }
-              },
-              "properties": {
-                "componentType": "app",
-                "howToFix": [
-                  "Remove or correct the reference to the name that isn't valid."
-                ],
                 "level": "High",
                 "primaryCategory": "formula",
                 "whyFix": ""

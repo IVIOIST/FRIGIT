@@ -3,6 +3,7 @@ Login As screen:
     Fill: =RGBA(242, 242, 242, 1)
     ImagePosition: =ImagePosition.Fill
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
+    OnVisible: =Set(labeltxt,false)
 
     Container1 As groupContainer.manualLayoutContainer:
         DropShadow: =DropShadow.ExtraBold
@@ -28,7 +29,7 @@ Login As screen:
             FocusedBorderThickness: =4
             Font: =Font.'Segoe UI'
             Height: =46
-            HintText: ="Email"
+            HintText: ="Username"
             HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
             HoverColor: =RGBA(51, 51, 51, 1)
             HoverFill: =RGBA(255, 255, 255, 1)
@@ -72,7 +73,7 @@ Login As screen:
             Size: =13
             Width: =312
             X: =45
-            Y: =275
+            Y: =225
             ZIndex: =2
 
         Label4 As label:
@@ -87,9 +88,10 @@ Login As screen:
             Height: =70
             Size: =11
             Text: ="Incorrect Email or Password"
+            Visible: =labeltxt
             Width: =213
             X: =97
-            Y: =350
+            Y: =346
             ZIndex: =3
 
         Button2 As button:
@@ -105,7 +107,25 @@ Login As screen:
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverColor: =RGBA(255, 255, 255, 1)
             HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
-            OnSelect: =Set(userrolevalue,Lookup(user_login, )
+            OnSelect: |
+                =Set(
+                    userrolevalue,
+                    LookUp(
+                        user_logins,
+                        user_name = username_input.Text And user_password = password_input.Text
+                    ).user_role
+                );
+                If(
+                    IsBlankOrError(userrolevalue),
+                    Notify("Incorret Username or Password");Set(labeltxt,true),
+                    Switch(
+                        userrolevalue,
+                        "Administrator",
+                        Navigate(Home)
+                    )
+                );
+                Reset(password_input);
+                Reset(username_input);
             PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
             PressedColor: =RGBA(255, 255, 255, 1)
             PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
@@ -136,7 +156,7 @@ Login As screen:
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =23
             X: =326
-            Y: =284
+            Y: =234
             ZIndex: =5
 
         Icon5 As icon.AddUser:
@@ -176,7 +196,7 @@ Login As screen:
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =20
             X: =51
-            Y: =288
+            Y: =238
             ZIndex: =7
 
         Image5 As image:
