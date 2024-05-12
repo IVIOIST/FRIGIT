@@ -29,14 +29,14 @@
       "Created": "Created",
       "Editor": "Modified By",
       "Editor#Claims": "Modified By Claims",
-      "expiry_date": "expiry_date",
+      "Expiry": "Expiry",
       "ID": "ID",
-      "ingredient_name": "ingredient_name",
       "Modified": "Modified",
       "OData__ColorTag": "Color Tag",
-      "quantity": "quantity",
+      "Quantity": "Quantity",
       "Title": "Title",
-      "user_id": "user_id"
+      "Units": "Units",
+      "Units#Id": "Units Id"
     },
     "DatasetName": "https://unisydneyedu.sharepoint.com/sites/FRIGIT",
     "EncodeDataset": true,
