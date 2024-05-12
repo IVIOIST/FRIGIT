@@ -99,7 +99,7 @@
       "zeroalltabindexes": true
     },
     "Author": "",
-    "BindingErrorCount": 0,
+    "BindingErrorCount": 11,
     "ContainsThirdPartyPcfControls": false,
     "DefaultConnectedDataSourceMaxGetRowsCount": 500,
     "DocumentAppType": "Phone",
@@ -118,7 +118,7 @@
     "ManualOfflineProfileId": "",
     "Name": "Frigit app",
     "OriginatingVersion": "1.326",
-    "ParserErrorCount": 0,
+    "ParserErrorCount": 22,
     "ShowStatusBar": false
   },
   "PublishInfo": {
@@ -133,6 +133,9 @@
     "UserLocale": "en-US"
   },
   "ScreenOrder": [
-    "entermanuallyingr"
+    "Home",
+    "Kitchen",
+    "Settings",
+    "Login"
   ]
 }
