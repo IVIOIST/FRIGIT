@@ -47,7 +47,7 @@ Home As screen:
         OnSelect: =Navigate(
         Size: =48
         Text: |-
-            ="Recipes
+            ="Recipe
             "
         Width: =244
         X: =268
