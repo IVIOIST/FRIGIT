@@ -158,6 +158,28 @@ Login As screen:
                         true
                     )
                 );
+                
+                If(
+                    validusr = "John Smith",
+                    Set(
+                        curr_usr,
+                        "John Smith"
+                    )
+                );
+                If(
+                    validusr = "John Citizen",
+                    Set(
+                        curr_usr,
+                        "John Smith"
+                    )
+                );
+                If(
+                    validusr = "Stephen Fry",
+                    Set(
+                        curr_usr,
+                        "Stephen Fry"
+                    )
+                );
                 If(
                     IsBlankOrError(userrolevalue),
                     Notify("Incorret Username or Password");
