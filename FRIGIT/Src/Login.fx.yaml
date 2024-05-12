@@ -75,8 +75,8 @@ Login As screen:
             RadiusTopRight: =9
             Size: =13
             Width: =312
-            X: =45
-            Y: =225
+            X: =47
+            Y: =226
             ZIndex: =2
 
         Label4 As label:
