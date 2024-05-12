@@ -3,7 +3,9 @@ Login As screen:
     Fill: =RGBA(242, 242, 242, 1)
     ImagePosition: =ImagePosition.Fill
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
-    OnVisible: =Set(labeltxt,false)
+    OnVisible: |-
+        =Set(labeltxt,false);
+        Set(lblview, TextMode.Password)
 
     Container1 As groupContainer.manualLayoutContainer:
         DropShadow: =DropShadow.ExtraBold
@@ -62,6 +64,7 @@ Login As screen:
             HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
             HoverColor: =RGBA(51, 51, 51, 1)
             HoverFill: =RGBA(255, 255, 255, 1)
+            Mode: =lblview
             PaddingLeft: =35
             PressedBorderColor: =RGBA(0, 120, 212, 1)
             PressedColor: =RGBA(51, 51, 51, 1)
@@ -151,6 +154,7 @@ Login As screen:
             HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
             HoverFill: =RGBA(0, 0, 0, 0)
             Icon: =Icon.View
+            OnSelect: =Set(lblview,TextMode.SingleLine)
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
             PressedFill: =RGBA(0, 0, 0, 0)
