@@ -12,13 +12,16 @@
     "Kitchen": 19,
     "Label1": 21,
     "Label1_1": 22,
+    "Label1_2": 23,
+    "Label1_3": 24,
+    "Label1_4": 25,
     "Settings": 20,
     "Test_7F478737223C4B69": 2
   },
   "DoesTestStepsMetadataExist": true,
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "05/12/2024 01:29:00",
+  "HeaderLastSavedDateTimeUTC": "05/12/2024 01:30:32",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "73c82abf-33bd-4e78-9731-4cc6d8f34076": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/b60d9248a0a4448789b9dbea0119eefe\""
@@ -73,6 +76,9 @@
     "Kitchen": {},
     "Label1": {},
     "Label1_1": {},
+    "Label1_2": {},
+    "Label1_3": {},
+    "Label1_4": {},
     "Settings": {},
     "Test_7F478737223C4B69": {}
   },
@@ -88,7 +94,10 @@
     "Host": 0,
     "Kitchen": 0,
     "Label1": 0,
-    "Label1_1": 0,
+    "Label1_1": 1,
+    "Label1_2": 4,
+    "Label1_3": 2,
+    "Label1_4": 3,
     "Settings": 0,
     "Test_7F478737223C4B69": 0
   },
@@ -109,7 +118,7 @@
     "AnalysisLoadTime": 0.1666127,
     "ControlCount": {
       "button": 2,
-      "label": 4,
+      "label": 7,
       "rectangle": 1,
       "screen": 1,
       "TestCase": 2,

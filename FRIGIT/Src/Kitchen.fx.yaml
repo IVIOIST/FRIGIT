@@ -1,3 +1,39 @@
 Kitchen As screen:
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
+    Label1_3 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(29, 174, 255, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Bold
+        Height: =101
+        Size: =48
+        Text: ="Kitchen"
+        Width: =244
+        X: =148
+        Y: =120
+        ZIndex: =1
+
+    Label1_4 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(0, 0, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Bold
+        Height: =101
+        Size: =48
+        Text: ="My"
+        Width: =243
+        X: =45
+        Y: =122
+        ZIndex: =2
+
