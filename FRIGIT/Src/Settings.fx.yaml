@@ -1,4 +1,5 @@
 Settings As screen:
+    Fill: =RGBA(242, 242, 242, 1)
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
     Label1_2 As label:

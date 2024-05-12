@@ -14,6 +14,1041 @@
             {
               "logicalLocations": [
                 {
+                  "fullyQualifiedName": "Home.Label1.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Label1.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Label1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrOperandExpected",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Label1.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Label1.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Label1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Eof",
+              "ParenClose"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Label1.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Label1.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Label1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Navigate"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrNeedControl-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Icon1.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Icon1.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Icon1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrOperandExpected",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Icon1.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Icon1.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Icon1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Eof",
+              "ParenClose"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Icon1.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Icon1.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Icon1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Navigate"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrNeedControl-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Button1_2.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Button1_2.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Button1_2"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrOperandExpected",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Button1_2.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Button1_2.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Button1_2"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Eof",
+              "ParenClose"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Button1_2.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Button1_2.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Button1_2"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Navigate"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrNeedControl-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Button1_1.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Button1_1.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Button1_1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrOperandExpected",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Button1_1.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Button1_1.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Button1_1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Eof",
+              "ParenClose"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Button1_1.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Button1_1.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Button1_1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Navigate"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrNeedControl-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Button1.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Button1.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Button1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrOperandExpected",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Button1.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Button1.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Button1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Eof",
+              "ParenClose"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Button1.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Button1.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Button1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Navigate"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrNeedControl-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Rectangle1.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Rectangle1.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Rectangle1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrOperandExpected",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Rectangle1.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Rectangle1.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Rectangle1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Eof",
+              "ParenClose"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Rectangle1.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Rectangle1.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Rectangle1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Navigate"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrNeedControl-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Label1_1.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Label1_1.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Label1_1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrOperandExpected",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Label1_1.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Label1_1.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Label1_1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Eof",
+              "ParenClose"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Label1_1.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Label1_1.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Label1_1"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Navigate"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrNeedControl-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Icon2.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Icon2.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Icon2"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrOperandExpected",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Icon2.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Icon2.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Icon2"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Eof",
+              "ParenClose"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Icon2.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Icon2.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Icon2"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Navigate"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrNeedControl-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Icon3.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Icon3.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Icon3"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrOperandExpected",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Icon3.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Icon3.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Icon3"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Eof",
+              "ParenClose"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Home.Icon3.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Home.Icon3.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Home",
+                "type": "Home.Icon3"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Navigate"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrNeedControl-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
                   "fullyQualifiedName": "App.image2706832"
                 }
               ],
@@ -37,7 +1072,7 @@
             "level": "Medium"
           },
           "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 0
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -67,7 +1102,7 @@
             "level": "Medium"
           },
           "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 0
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -97,7 +1132,7 @@
             "level": "Medium"
           },
           "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 0
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -127,7 +1162,7 @@
             "level": "Medium"
           },
           "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 0
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -157,7 +1192,7 @@
             "level": "Medium"
           },
           "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 0
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -187,7 +1222,7 @@
             "level": "Medium"
           },
           "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 0
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -217,7 +1252,7 @@
             "level": "Medium"
           },
           "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 0
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -247,7 +1282,7 @@
             "level": "Medium"
           },
           "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 0
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -277,7 +1312,7 @@
             "level": "Medium"
           },
           "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 0
+          "ruleIndex": 3
         }
       ],
       "tool": {
@@ -285,6 +1320,54 @@
           "fullName": "PowerApps app checker",
           "name": "PowerApps app checker",
           "rules": [
+            {
+              "id": "app-ErrOperandExpected",
+              "messageStrings": {
+                "issue": {
+                  "text": "Expected an operand. The formula or expression expects a valid operand. For example, you can add the operand '2' to the expression ' 1 +_' so that the result is '3'. Or, you can add the operand \"there\" to the expression '\"Hi \"& _ ' so that the result is 'Hi there'."
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "howToFix": [
+                  "Supply an operand value that will complete the expression. Ensure that the operand's type (text, number, date, or true/false) fits the expression. Match numbers with numbers, text with text, and so on. For example, '1 + \"Hi\"' isn't valid, but '1 + 2' is valid."
+                ],
+                "level": "High",
+                "primaryCategory": "formula",
+                "whyFix": ""
+              }
+            },
+            {
+              "id": "app-ErrExpectedFound-Ex-Fnd",
+              "messageStrings": {
+                "issue": {
+                  "text": "Unexpected characters. The formula contains '{0}' where '{1}' is expected."
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "howToFix": [
+                  "Remove or replace the unexpected characters with an expected character."
+                ],
+                "level": "High",
+                "primaryCategory": "formula",
+                "whyFix": ""
+              }
+            },
+            {
+              "id": "app-ErrNeedControl-Func",
+              "messageStrings": {
+                "issue": {
+                  "text": "The first argument of '{0}' should be a control or screen."
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "level": "High",
+                "primaryCategory": "formula",
+                "whyFix": ""
+              }
+            },
             {
               "id": "app-UnusedMediaResources",
               "messageStrings": {

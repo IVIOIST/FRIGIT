@@ -1,4 +1,5 @@
 Home As screen:
+    Fill: =RGBA(242, 242, 242, 1)
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
     Label1 As label:
@@ -12,6 +13,7 @@ Home As screen:
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Bold
         Height: =101
+        OnSelect: =Navigate(
         Size: =48
         Text: ="Explore"
         Width: =243
@@ -30,6 +32,7 @@ Home As screen:
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Bold
         Height: =101
+        OnSelect: =Navigate(
         Size: =48
         Text: |-
             ="Recipes
@@ -38,4 +41,175 @@ Home As screen:
         X: =268
         Y: =120
         ZIndex: =2
+
+    Rectangle1 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledFill: =RGBA(166, 166, 166, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        FocusedBorderThickness: =4
+        HoverFill: =RGBA(255, 255, 255, 1)
+        OnSelect: =Navigate(
+        PressedFill: =RGBA(255, 255, 255, 1)
+        Width: =531
+        X: =55
+        Y: =981
+        ZIndex: =3
+
+    Button1 As button:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =0
+        Color: =RGBA(29, 174, 255, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(29, 174, 255, 1)
+        HoverFill: =RGBA(255,255,255,0)
+        OnSelect: =Navigate(
+        PressedBorderColor: =RGBA(255,255,255,0)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =RGBA(255,255,255,0)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =12
+        Text: ="Kitchen"
+        VerticalAlign: =VerticalAlign.Bottom
+        Width: =85
+        X: =84
+        Y: =1000
+        ZIndex: =4
+
+    Button1_1 As button:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =0
+        Color: =RGBA(29, 174, 255, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(29, 174, 255, 1)
+        HoverFill: =RGBA(255,255,255,0)
+        OnSelect: =Navigate(
+        PressedBorderColor: =RGBA(255,255,255,0)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =RGBA(255,255,255,0)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =12
+        Text: ="Home"
+        VerticalAlign: =VerticalAlign.Bottom
+        Width: =85
+        X: =278
+        Y: =1000
+        ZIndex: =5
+
+    Button1_2 As button:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =0
+        Color: =RGBA(29, 174, 255, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(29, 174, 255, 1)
+        HoverFill: =RGBA(255,255,255,0)
+        OnSelect: =Navigate(
+        PressedBorderColor: =RGBA(255,255,255,0)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =RGBA(255,255,255,0)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =12
+        Text: ="Settings"
+        VerticalAlign: =VerticalAlign.Bottom
+        Width: =85
+        X: =474
+        Y: =1000
+        ZIndex: =6
+
+    Icon1 As icon.Bookmark:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(29, 174, 255, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(220, 220, 220, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =34
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Icon: =Icon.Bookmark
+        OnSelect: =Navigate(
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =34
+        X: =109
+        Y: =1005
+        ZIndex: =7
+
+    Icon2 As icon.Home:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(29, 174, 255, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(220, 220, 220, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =42
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Icon: =Icon.Home
+        OnSelect: =Navigate(
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =42
+        X: =299
+        Y: =1000
+        ZIndex: =8
+
+    Icon3 As icon.Settings:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(29, 174, 255, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(220, 220, 220, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =37
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Icon: =Icon.Settings
+        OnSelect: =Navigate(
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =36
+        X: =498
+        Y: =1000
+        ZIndex: =9
 
