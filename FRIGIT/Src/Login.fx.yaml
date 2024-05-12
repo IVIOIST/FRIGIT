@@ -154,9 +154,9 @@ Login As screen:
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
             PressedFill: =RGBA(0, 0, 0, 0)
-            Width: =23
-            X: =326
-            Y: =234
+            Width: =19
+            X: =333
+            Y: =236
             ZIndex: =5
 
         Icon5 As icon.AddUser:
@@ -166,7 +166,7 @@ Login As screen:
             DisabledColor: =RGBA(220, 220, 220, 1)
             DisabledFill: =RGBA(0, 0, 0, 0)
             FocusedBorderThickness: =4
-            Height: =22
+            Height: =18
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
             HoverFill: =RGBA(0, 0, 0, 0)
@@ -174,9 +174,9 @@ Login As screen:
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
             PressedFill: =RGBA(0, 0, 0, 0)
-            Width: =28
-            X: =49
-            Y: =151
+            Width: =22
+            X: =51
+            Y: =155
             ZIndex: =6
 
         Icon6 As icon.Lock:
@@ -186,7 +186,7 @@ Login As screen:
             DisabledColor: =RGBA(220, 220, 220, 1)
             DisabledFill: =RGBA(0, 0, 0, 0)
             FocusedBorderThickness: =4
-            Height: =20
+            Height: =18
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
             HoverFill: =RGBA(0, 0, 0, 0)
@@ -194,9 +194,9 @@ Login As screen:
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
             PressedFill: =RGBA(0, 0, 0, 0)
-            Width: =20
+            Width: =18
             X: =51
-            Y: =238
+            Y: =240
             ZIndex: =7
 
         Image5 As image:
