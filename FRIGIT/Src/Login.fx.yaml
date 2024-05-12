@@ -112,6 +112,18 @@ Login As screen:
             HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
             OnSelect: |
                 =Set(
+                    usrjs,
+                    false
+                );
+                Set(
+                    usrjc,
+                    false
+                );
+                Set(
+                    usrsf,
+                    false
+                );
+                Set(
                     userrolevalue,
                     LookUp(
                         user_logins,

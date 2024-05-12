@@ -1,11 +1,7 @@
 Settings As screen:
     Fill: =RGBA(242, 242, 242, 1)
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
-    OnVisible: |-
-        =Set(
-            image_src,
-                LookUp(user_logins, user_name = "John Smith", user_profilepic)
-        )
+    OnVisible: =
 
     Label1_2 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -193,49 +189,25 @@ Settings As screen:
         Y: =1005
         ZIndex: =8
 
-    Image1 As image:
+    Label2 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         BorderThickness: =2
+        Color: =RGBA(51, 51, 51, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
-        Height: =320
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Image: =
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =320
-        X: =143
-        Y: =183
-        ZIndex: =9
-
-    Container3 As groupContainer.manualLayoutContainer:
-        DropShadow: =DropShadow.Light
-        Height: =146
-        RadiusBottomLeft: =4
-        RadiusBottomRight: =4
-        RadiusTopLeft: =4
-        RadiusTopRight: =4
-        X: =60
-        Y: =205
-        ZIndex: =10
-
-        Image2 As image:
-            BorderColor: =RGBA(0, 0, 0, 0)
-            BorderStyle: =BorderStyle.None
-            BorderThickness: =2
-            DisabledBorderColor: =RGBA(0, 0, 0, 0)
-            DisabledFill: =RGBA(0, 0, 0, 0)
-            FocusedBorderThickness: =4
-            Height: =146
-            HoverBorderColor: =RGBA(0, 0, 0, 0)
-            HoverFill: =RGBA(0, 0, 0, 0)
-            Image: |
-                =image_src
-            PressedBorderColor: =RGBA(0, 0, 0, 0)
-            PressedFill: =RGBA(0, 0, 0, 0)
-            Width: =320
-            ZIndex: =1
+        Font: =Font.'Segoe UI'
+        Height: =70
+        Size: =21
+        Text: |
+            =If(usrjs, "John Smith",
+                If(usrjc, "John Citizen",
+                    If(usrsf, "Stephen Fry")
+                )
+            )
+        Width: =560
+        X: =80
+        Y: =322
+        ZIndex: =11
 
