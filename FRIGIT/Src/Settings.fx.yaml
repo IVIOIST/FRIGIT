@@ -189,25 +189,153 @@ Settings As screen:
         Y: =1005
         ZIndex: =8
 
-    Label2 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        Color: =RGBA(51, 51, 51, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Font: =Font.'Segoe UI'
-        Height: =70
-        Size: =21
-        Text: |
-            =If(usrjs, "John Smith",
-                If(usrjc, "John Citizen",
-                    If(usrsf, "Stephen Fry")
+    Container5 As groupContainer.verticalAutoLayoutContainer:
+        DropShadow: =DropShadow.Light
+        Fill: =RGBA(255, 255, 255, 1)
+        LayoutDirection: =LayoutDirection.Vertical
+        LayoutMode: =LayoutMode.Auto
+        RadiusBottomLeft: =9
+        RadiusBottomRight: =9
+        RadiusTopLeft: =9
+        RadiusTopRight: =9
+        Width: =501
+        X: =52
+        Y: =210
+        ZIndex: =9
+
+        Label3 As label:
+            BorderColor: =RGBA(0, 0, 0, 0)
+            BorderStyle: =BorderStyle.None
+            BorderThickness: =2
+            Color: =RGBA(51, 51, 51, 1)
+            DisabledBorderColor: =RGBA(0, 0, 0, 0)
+            DisabledColor: =RGBA(166, 166, 166, 1)
+            FocusedBorderThickness: =4
+            Font: =Font.'Segoe UI'
+            FontWeight: =FontWeight.Bold
+            Height: =70
+            LayoutMinHeight: =70
+            LayoutMinWidth: =560
+            PaddingLeft: =20
+            PaddingRight: =20
+            Size: =21
+            Text: ="Account"
+            Width: =560
+            ZIndex: =1
+
+        Label5 As label:
+            BorderColor: =RGBA(0, 0, 0, 0)
+            BorderStyle: =BorderStyle.None
+            BorderThickness: =2
+            Color: =RGBA(51, 51, 51, 1)
+            DisabledBorderColor: =RGBA(0, 0, 0, 0)
+            DisabledColor: =RGBA(166, 166, 166, 1)
+            FocusedBorderThickness: =4
+            Font: =Font.'Segoe UI'
+            Height: =50
+            LayoutMinHeight: =70
+            LayoutMinWidth: =560
+            PaddingLeft: =20
+            PaddingRight: =20
+            PaddingTop: =0
+            Size: =21
+            Text: |
+                =If(usrjs, "John Smith",
+                    If(usrjc, "John Citizen",
+                        If(usrsf, "Stephen Fry")
+                    )
                 )
-            )
-        Width: =560
-        X: =80
-        Y: =322
-        ZIndex: =11
+            Width: =560
+            ZIndex: =2
+
+        Label6 As label:
+            BorderColor: =RGBA(0, 0, 0, 0)
+            BorderStyle: =BorderStyle.None
+            BorderThickness: =2
+            Color: =RGBA(51, 51, 51, 1)
+            DisabledBorderColor: =RGBA(0, 0, 0, 0)
+            DisabledColor: =RGBA(166, 166, 166, 1)
+            FocusedBorderThickness: =4
+            Font: =Font.'Segoe UI'
+            Height: =70
+            LayoutMinHeight: =70
+            LayoutMinWidth: =560
+            PaddingLeft: =20
+            Size: =21
+            Text: |-
+                =If(
+                    usrjs,
+                    "johnsmith@email.com
+                ",
+                    If(
+                        usrjc,
+                        "johncitizen@email.com",
+                        If(
+                            usrsf,
+                            "stephen@mail.com"
+                        )
+                    )
+                )
+            Width: =560
+            ZIndex: =3
+
+    Container6 As groupContainer.verticalAutoLayoutContainer:
+        DropShadow: =DropShadow.Light
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =505
+        LayoutDirection: =LayoutDirection.Vertical
+        LayoutMode: =LayoutMode.Auto
+        LayoutOverflowY: =LayoutOverflow.Scroll
+        RadiusBottomLeft: =9
+        RadiusBottomRight: =9
+        RadiusTopLeft: =9
+        RadiusTopRight: =9
+        X: =52
+        Y: =447
+        ZIndex: =10
+
+        Label7 As label:
+            BorderColor: =RGBA(0, 0, 0, 0)
+            BorderStyle: =BorderStyle.None
+            BorderThickness: =2
+            Color: =RGBA(51, 51, 51, 1)
+            DisabledBorderColor: =RGBA(0, 0, 0, 0)
+            DisabledColor: =RGBA(166, 166, 166, 1)
+            FocusedBorderThickness: =4
+            Font: =Font.'Segoe UI'
+            FontWeight: =FontWeight.Semibold
+            Height: =70
+            LayoutMinHeight: =70
+            LayoutMinWidth: =560
+            PaddingLeft: =20
+            Size: =21
+            Text: ="Allergens"
+            Width: =560
+            ZIndex: =1
+
+        Checkbox1 As checkbox:
+            BorderColor: =RGBA(0, 0, 0, 0)
+            BorderStyle: =BorderStyle.None
+            BorderThickness: =2
+            CheckboxBorderColor: =RGBA(102, 102, 102, 1)
+            CheckboxSize: =30
+            CheckmarkFill: =RGBA(255, 255, 255, 1)
+            Color: =RGBA(51, 51, 51, 1)
+            DisabledBorderColor: =RGBA(0, 0, 0, 0)
+            DisabledColor: =RGBA(166, 166, 166, 1)
+            FocusedBorderThickness: =4
+            Font: =Font.'Segoe UI'
+            HoverBorderColor: =RGBA(0, 0, 0, 0)
+            HoverColor: =RGBA(29, 174, 255, 1)
+            HoverFill: =RGBA(0, 0, 0, 0)
+            LayoutMinHeight: =85
+            LayoutMinWidth: =280
+            PaddingLeft: =20
+            PressedBorderColor: =RGBA(0, 0, 0, 0)
+            PressedColor: =RGBA(29, 174, 255, 1)
+            PressedFill: =RGBA(0, 0, 0, 0)
+            Size: =21
+            Text: ="Option"
+            Width: =280
+            ZIndex: =2
 
