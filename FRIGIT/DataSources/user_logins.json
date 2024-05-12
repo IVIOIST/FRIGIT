@@ -35,6 +35,7 @@
       "Title": "Title",
       "user_name": "user_name",
       "user_password": "user_password",
+      "user_profilepic": "user_profilepic",
       "user_role": "user_role"
     },
     "DatasetName": "https://unisydneyedu-my.sharepoint.com/personal/esun0349_uni_sydney_edu_au",
