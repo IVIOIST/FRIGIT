@@ -349,6 +349,7 @@ Settings As screen:
             CheckboxSize: =30
             CheckmarkFill: =RGBA(29, 174, 255, 1)
             Color: =RGBA(51, 51, 51, 1)
+            Default: =LookUp(user_logins, user_name = curr_usr).Seafoodallergy
             DisabledBorderColor: =RGBA(0, 0, 0, 0)
             DisabledColor: =RGBA(166, 166, 166, 1)
             FocusedBorderThickness: =4
@@ -375,6 +376,7 @@ Settings As screen:
             CheckboxSize: =30
             CheckmarkFill: =RGBA(29, 174, 255, 1)
             Color: =RGBA(51, 51, 51, 1)
+            Default: =LookUp(user_logins, user_name = curr_usr).Glutenallergy
             DisabledBorderColor: =RGBA(0, 0, 0, 0)
             DisabledColor: =RGBA(166, 166, 166, 1)
             FocusedBorderThickness: =4
@@ -401,6 +403,7 @@ Settings As screen:
             CheckboxSize: =30
             CheckmarkFill: =RGBA(29, 174, 255, 1)
             Color: =RGBA(51, 51, 51, 1)
+            Default: =LookUp(user_logins, user_name = curr_usr).Nutallergy
             DisabledBorderColor: =RGBA(0, 0, 0, 0)
             DisabledColor: =RGBA(166, 166, 166, 1)
             FocusedBorderThickness: =4
@@ -427,6 +430,7 @@ Settings As screen:
             CheckboxSize: =30
             CheckmarkFill: =RGBA(29, 174, 255, 1)
             Color: =RGBA(51, 51, 51, 1)
+            Default: =LookUp(user_logins, user_name = curr_usr).Wheatallergy
             DisabledBorderColor: =RGBA(0, 0, 0, 0)
             DisabledColor: =RGBA(166, 166, 166, 1)
             FocusedBorderThickness: =4
@@ -453,6 +457,7 @@ Settings As screen:
             CheckboxSize: =30
             CheckmarkFill: =RGBA(29, 174, 255, 1)
             Color: =RGBA(51, 51, 51, 1)
+            Default: =LookUp(user_logins, user_name = curr_usr).Soyallergy
             DisabledBorderColor: =RGBA(0, 0, 0, 0)
             DisabledColor: =RGBA(166, 166, 166, 1)
             FocusedBorderThickness: =4
@@ -498,6 +503,7 @@ Settings As screen:
             CheckboxSize: =30
             CheckmarkFill: =RGBA(29, 174, 255, 1)
             Color: =RGBA(51, 51, 51, 1)
+            Default: =LookUp(user_logins, user_name = curr_usr).Dailyrecipe
             DisabledBorderColor: =RGBA(0, 0, 0, 0)
             DisabledColor: =RGBA(166, 166, 166, 1)
             FocusedBorderThickness: =4
@@ -524,6 +530,7 @@ Settings As screen:
             CheckboxSize: =30
             CheckmarkFill: =RGBA(29, 174, 255, 1)
             Color: =RGBA(51, 51, 51, 1)
+            Default: =LookUp(user_logins, user_name = curr_usr).silentlydeliver
             DisabledBorderColor: =RGBA(0, 0, 0, 0)
             DisabledColor: =RGBA(166, 166, 166, 1)
             FocusedBorderThickness: =4
@@ -550,7 +557,7 @@ Settings As screen:
             CheckboxSize: =30
             CheckmarkFill: =RGBA(29, 174, 255, 1)
             Color: =RGBA(51, 51, 51, 1)
-            Default: =true
+            Default: =LookUp(user_logins, user_name = curr_usr).remindofexpiringfoods
             DisabledBorderColor: =RGBA(0, 0, 0, 0)
             DisabledColor: =RGBA(166, 166, 166, 1)
             FocusedBorderThickness: =4

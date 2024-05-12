@@ -1679,14 +1679,7 @@
           "NameMapSourceSchema": "?"
         },
         "CheckboxBorderColor",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "Text",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "Text",
         "BorderColor",
         "DisabledBorderColor",
         "BorderStyle",
