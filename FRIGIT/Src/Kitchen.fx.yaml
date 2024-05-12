@@ -155,7 +155,7 @@ Kitchen As screen:
         HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         HoverFill: =RGBA(0, 0, 0, 0)
         Icon: =Icon.Bookmark
-        OnSelect: =Navigate(
+        OnSelect: =
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         PressedFill: =RGBA(0, 0, 0, 0)
@@ -176,7 +176,7 @@ Kitchen As screen:
         HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         HoverFill: =RGBA(0, 0, 0, 0)
         Icon: =Icon.Home
-        OnSelect: =Navigate(
+        OnSelect: =
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         PressedFill: =RGBA(0, 0, 0, 0)
@@ -197,7 +197,7 @@ Kitchen As screen:
         HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         HoverFill: =RGBA(0, 0, 0, 0)
         Icon: =Icon.Settings
-        OnSelect: =Navigate(
+        OnSelect: =
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         PressedFill: =RGBA(0, 0, 0, 0)
@@ -355,10 +355,11 @@ Kitchen As screen:
             Height: =41
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverColor: =RGBA(29, 174, 255, 1)
-            HoverFill: =RGBA(255,255,255)
+            HoverFill: =RGBA(255,255,255,1)
+            OnSelect: =Navigate(AddIngredientsForm)
             PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
             PressedColor: =RGBA(29, 174, 255, 1)
-            PressedFill: =RGBA(255,255,255)
+            PressedFill: =RGBA(255,255,255, 1)
             RadiusBottomLeft: =0
             RadiusBottomRight: =0
             RadiusTopLeft: =0

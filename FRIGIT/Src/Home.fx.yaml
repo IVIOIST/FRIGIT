@@ -13,7 +13,7 @@ Home As screen:
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Bold
         Height: =101
-        OnSelect: =Navigate(
+        OnSelect: =
         Size: =48
         Text: ="Explore"
         Width: =243
@@ -32,7 +32,7 @@ Home As screen:
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Bold
         Height: =101
-        OnSelect: =Navigate(
+        OnSelect: =
         Size: =48
         Text: |-
             ="Recipe
@@ -166,7 +166,7 @@ Home As screen:
             HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
             HoverFill: =RGBA(0, 0, 0, 0)
             Icon: =Icon.Bookmark
-            OnSelect: =Navigate(
+            OnSelect: =
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
             PressedFill: =RGBA(0, 0, 0, 0)
@@ -187,7 +187,7 @@ Home As screen:
             HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
             HoverFill: =RGBA(0, 0, 0, 0)
             Icon: =Icon.Home
-            OnSelect: =Navigate(
+            OnSelect: =
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
             PressedFill: =RGBA(0, 0, 0, 0)
@@ -208,7 +208,7 @@ Home As screen:
             HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
             HoverFill: =RGBA(0, 0, 0, 0)
             Icon: =Icon.Settings
-            OnSelect: =Navigate(
+            OnSelect: =
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
             PressedFill: =RGBA(0, 0, 0, 0)
