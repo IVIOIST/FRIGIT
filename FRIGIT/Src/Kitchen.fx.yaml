@@ -236,7 +236,7 @@ Kitchen As screen:
             Transition: =Transition.Pop
             Width: =493
             X: =5
-            Y: =100
+            Y: =99
             ZIndex: =1
 
             Title4_1 As label:
@@ -319,8 +319,8 @@ Kitchen As screen:
                 PressedFill: =RGBA(0, 0, 0, 0)
                 Tooltip: ="View item details"
                 Width: =50
-                X: =Parent.TemplateWidth - Self.Width - 12
-                Y: =(Parent.TemplateHeight / 2) - (Self.Height / 2)
+                X: =443
+                Y: =1
                 ZIndex: =4
 
             Separator4_1 As rectangle:
@@ -340,6 +340,27 @@ Kitchen As screen:
                 Visible: =ThisItem.IsSelected
                 Width: =4
                 ZIndex: =6
+
+            Icon8 As icon.Blocked:
+                BorderColor: =RGBA(166, 166, 166, 1)
+                Color: =RGBA(247, 99, 12, 1)
+                DisabledBorderColor: =RGBA(0, 0, 0, 0)
+                DisabledColor: =RGBA(220, 220, 220, 1)
+                DisabledFill: =RGBA(0, 0, 0, 0)
+                FocusedBorderThickness: =4
+                Height: =26
+                HoverBorderColor: =RGBA(0, 0, 0, 0)
+                HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+                HoverFill: =RGBA(0, 0, 0, 0)
+                Icon: =Icon.Blocked
+                OnSelect: =Remove(user_ingredients, ThisItem)
+                PressedBorderColor: =RGBA(0, 0, 0, 0)
+                PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+                PressedFill: =RGBA(0, 0, 0, 0)
+                Width: =16
+                X: =462
+                Y: =58
+                ZIndex: =7
 
         Button3 As button:
             Align: =Align.Right
