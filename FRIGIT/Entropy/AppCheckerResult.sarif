@@ -14,12 +14,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect"
+                  "fullyQualifiedName": "Preference.Icon2_3.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect",
+                  "fullyQualifiedName": "Preference.Icon2_3.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -31,8 +31,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Kitchen",
-                "type": "Kitchen.Icon2_1"
+                "module": "Preference",
+                "type": "Preference.Icon2_3"
               }
             }
           ],
@@ -50,12 +50,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect"
+                  "fullyQualifiedName": "Preference.Icon2_3.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect",
+                  "fullyQualifiedName": "Preference.Icon2_3.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -67,8 +67,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Kitchen",
-                "type": "Kitchen.Icon2_1"
+                "module": "Preference",
+                "type": "Preference.Icon2_3"
               }
             }
           ],
@@ -90,12 +90,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect"
+                  "fullyQualifiedName": "Preference.Icon2_3.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Kitchen.Icon2_1.OnSelect",
+                  "fullyQualifiedName": "Preference.Icon2_3.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -107,8 +107,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Kitchen",
-                "type": "Kitchen.Icon2_1"
+                "module": "Preference",
+                "type": "Preference.Icon2_3"
               }
             }
           ],
@@ -129,12 +129,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect"
+                  "fullyQualifiedName": "Preference.Icon1_3.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect",
+                  "fullyQualifiedName": "Preference.Icon1_3.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -146,8 +146,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Kitchen",
-                "type": "Kitchen.Icon1_1"
+                "module": "Preference",
+                "type": "Preference.Icon1_3"
               }
             }
           ],
@@ -165,12 +165,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect"
+                  "fullyQualifiedName": "Preference.Icon1_3.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect",
+                  "fullyQualifiedName": "Preference.Icon1_3.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -182,8 +182,8 @@
               },
               "properties": {
                 "member": "OnSelect",
-                "module": "Kitchen",
-                "type": "Kitchen.Icon1_1"
+                "module": "Preference",
+                "type": "Preference.Icon1_3"
               }
             }
           ],
@@ -205,12 +205,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect"
+                  "fullyQualifiedName": "Preference.Icon1_3.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Kitchen.Icon1_1.OnSelect",
+                  "fullyQualifiedName": "Preference.Icon1_3.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -222,47 +222,186 @@
               },
               "properties": {
                 "member": "OnSelect",
+                "module": "Preference",
+                "type": "Preference.Icon1_3"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Navigate"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrNeedControl-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Preference.Icon3_3.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Preference.Icon3_3.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Preference",
+                "type": "Preference.Icon3_3"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrOperandExpected",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Preference.Icon3_3.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Preference.Icon3_3.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Preference",
+                "type": "Preference.Icon3_3"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Eof",
+              "ParenClose"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Preference.Icon3_3.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Preference.Icon3_3.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charOffset": 9,
+                  "snippet": {
+                    "text": ""
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Preference",
+                "type": "Preference.Icon3_3"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Navigate"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrNeedControl-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Kitchen.Container3.Gallery1_1.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Kitchen.Container3.Gallery1_1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
                 "module": "Kitchen",
-                "type": "Kitchen.Icon1_1"
+                "type": "Kitchen.Container3.Gallery1_1"
               }
             }
           ],
           "message": {
-            "arguments": [
-              "Navigate"
-            ],
             "id": "issue"
           },
           "properties": {
-            "level": "High"
+            "level": "Medium"
           },
-          "ruleId": "app-ErrNeedControl-Func",
-          "ruleIndex": 2
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 3
         },
         {
           "locations": [
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Kitchen.Icon3_1.OnSelect"
+                  "fullyQualifiedName": "Kitchen.Container3.Gallery1_1.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Kitchen.Icon3_1.OnSelect",
+                  "fullyQualifiedName": "Kitchen.Container3.Gallery1_1.TabIndex",
                   "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
                 }
               },
               "properties": {
-                "member": "OnSelect",
+                "member": "TabIndex",
                 "module": "Kitchen",
-                "type": "Kitchen.Icon3_1"
+                "type": "Kitchen.Container3.Gallery1_1"
               }
             }
           ],
@@ -270,114 +409,29 @@
             "id": "issue"
           },
           "properties": {
-            "level": "High"
+            "level": "Medium"
           },
-          "ruleId": "app-ErrOperandExpected",
-          "ruleIndex": 0
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 4
         },
         {
           "locations": [
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Kitchen.Icon3_1.OnSelect"
+                  "fullyQualifiedName": "Kitchen.Container3.Gallery1_1.NextArrow4_1.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Kitchen.Icon3_1.OnSelect",
+                  "fullyQualifiedName": "Kitchen.Container3.Gallery1_1.NextArrow4_1.TabIndex",
                   "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
                 }
               },
               "properties": {
-                "member": "OnSelect",
+                "member": "TabIndex",
                 "module": "Kitchen",
-                "type": "Kitchen.Icon3_1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Eof",
-              "ParenClose"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Kitchen.Icon3_1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Kitchen.Icon3_1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Kitchen",
-                "type": "Kitchen.Icon3_1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Navigate"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrNeedControl-Func",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Home.Label1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Home.Label1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Label1"
+                "type": "Kitchen.Container3.Gallery1_1.NextArrow4_1"
               }
             }
           ],
@@ -385,549 +439,10 @@
             "id": "issue"
           },
           "properties": {
-            "level": "High"
+            "level": "Medium"
           },
-          "ruleId": "app-ErrOperandExpected",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Home.Label1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Home.Label1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Label1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Eof",
-              "ParenClose"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Home.Label1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Home.Label1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Label1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Navigate"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrNeedControl-Func",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Home.Label1_1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Home.Label1_1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Label1_1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrOperandExpected",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Home.Label1_1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Home.Label1_1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Label1_1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Eof",
-              "ParenClose"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Home.Label1_1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Home.Label1_1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Label1_1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Navigate"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrNeedControl-Func",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Home.Icon2.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Home.Icon2.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Icon2"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrOperandExpected",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Home.Icon2.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Home.Icon2.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Icon2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Eof",
-              "ParenClose"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Home.Icon2.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Home.Icon2.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Icon2"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Navigate"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrNeedControl-Func",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Home.Icon1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Home.Icon1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Icon1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrOperandExpected",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Home.Icon1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Home.Icon1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Icon1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Eof",
-              "ParenClose"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Home.Icon1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Home.Icon1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Icon1"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Navigate"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrNeedControl-Func",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Home.Icon3.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Home.Icon3.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Icon3"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrOperandExpected",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Home.Icon3.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Home.Icon3.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Icon3"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Eof",
-              "ParenClose"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrExpectedFound-Ex-Fnd",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Home.Icon3.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Home.Icon3.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charOffset": 9,
-                  "snippet": {
-                    "text": ""
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "Home",
-                "type": "Home.Icon3"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Navigate"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrNeedControl-Func",
-          "ruleIndex": 2
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 4
         },
         {
           "locations": [
@@ -1048,6 +563,186 @@
           },
           "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
           "ruleIndex": 4
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AddIngredientsForm.EditForm2.Units_DataCard2.DataCardValue9.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "AddIngredientsForm.EditForm2.Units_DataCard2.DataCardValue9.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "AddIngredientsForm",
+                "type": "AddIngredientsForm.EditForm2.Units_DataCard2.DataCardValue9"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AddIngredientsForm.EditForm2.Quantity_DataCard2.DataCardValue8.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "AddIngredientsForm.EditForm2.Quantity_DataCard2.DataCardValue8.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "AddIngredientsForm",
+                "type": "AddIngredientsForm.EditForm2.Quantity_DataCard2.DataCardValue8"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AddIngredientsForm.EditForm2.Expiry_DataCard2.DataCardValue7.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "AddIngredientsForm.EditForm2.Expiry_DataCard2.DataCardValue7.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "AddIngredientsForm",
+                "type": "AddIngredientsForm.EditForm2.Expiry_DataCard2.DataCardValue7"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AddIngredientsForm.EditForm2.Title_DataCard2.DataCardValue6.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "AddIngredientsForm.EditForm2.Title_DataCard2.DataCardValue6.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "AddIngredientsForm",
+                "type": "AddIngredientsForm.EditForm2.Title_DataCard2.DataCardValue6"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AddIngredientsForm.EditForm2.Attachments_DataCard2.DataCardValue10.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "AddIngredientsForm.EditForm2.Attachments_DataCard2.DataCardValue10.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "AddIngredientsForm",
+                "type": "AddIngredientsForm.EditForm2.Attachments_DataCard2.DataCardValue10"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "App.615-6151019_white-rounded-rectangle-png-squircle-shape-transparent-png"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "App.615-6151019_white-rounded-rectangle-png-squircle-shape-transparent-png",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "615-6151019_white-rounded-rectangle-png-squircle-shape-transparent-png",
+                "module": "App",
+                "type": "App"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "app-UnusedMediaResources",
+          "ruleIndex": 5
         },
         {
           "locations": [
@@ -1305,6 +1000,36 @@
               },
               "properties": {
                 "member": "image2706941",
+                "module": "App",
+                "type": "App"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "app-UnusedMediaResources",
+          "ruleIndex": 5
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "App.png-clipart-computer-icons-rectangle-graphics-software-rounded-polygon-black-thumbnail"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "App.png-clipart-computer-icons-rectangle-graphics-software-rounded-polygon-black-thumbnail",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "png-clipart-computer-icons-rectangle-graphics-software-rounded-polygon-black-thumbnail",
                 "module": "App",
                 "type": "App"
               }
