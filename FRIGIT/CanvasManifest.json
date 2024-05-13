@@ -138,6 +138,7 @@
     "Settings",
     "Login",
     "Preference",
-    "AddIngredientsForm"
+    "AddIngredientsForm",
+    "AddAppliancesForm"
   ]
 }

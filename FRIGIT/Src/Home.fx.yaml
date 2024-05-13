@@ -17,8 +17,8 @@ Home As screen:
         Size: =48
         Text: ="Explore"
         Width: =243
-        X: =25
-        Y: =96
+        X: =53
+        Y: =33
         ZIndex: =2
 
     Label1_1 As label:
@@ -34,12 +34,10 @@ Home As screen:
         Height: =101
         OnSelect: =
         Size: =48
-        Text: |-
-            ="Recipe
-            "
+        Text: ="Recipes"
         Width: =244
-        X: =268
-        Y: =96
+        X: =293
+        Y: =33
         ZIndex: =3
 
     Group4 As group:

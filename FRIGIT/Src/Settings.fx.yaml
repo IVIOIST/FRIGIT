@@ -17,8 +17,8 @@ Settings As screen:
         Size: =48
         Text: ="Settings"
         Width: =442
-        X: =52
-        Y: =96
+        X: =59
+        Y: =40
         ZIndex: =1
 
     Container5 As groupContainer.verticalAutoLayoutContainer:
@@ -32,7 +32,7 @@ Settings As screen:
         RadiusTopRight: =9
         Width: =501
         X: =70
-        Y: =210
+        Y: =157
         ZIndex: =9
 
         Label3 As label:
@@ -114,7 +114,7 @@ Settings As screen:
     Container6 As groupContainer.verticalAutoLayoutContainer:
         DropShadow: =DropShadow.Light
         Fill: =RGBA(255, 255, 255, 1)
-        Height: =505
+        Height: =561
         LayoutDirection: =LayoutDirection.Vertical
         LayoutMode: =LayoutMode.Auto
         LayoutOverflowY: =LayoutOverflow.Scroll
@@ -124,7 +124,7 @@ Settings As screen:
         RadiusTopRight: =9
         Width: =507
         X: =70
-        Y: =447
+        Y: =390
         ZIndex: =10
 
         Label7 As label:
