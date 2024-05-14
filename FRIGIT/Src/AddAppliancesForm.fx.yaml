@@ -36,7 +36,7 @@
         Height: =88
         Icon: =Icon.Check
         OnSelect: |-
-            =SubmitForm(EditForm1)
+            =SubmitForm(EditForm1);
             Navigate(Kitchen)
         PaddingBottom: =22
         PaddingLeft: =22

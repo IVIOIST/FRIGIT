@@ -16,7 +16,8 @@
     },
     "dataSources": [
       "user_logins",
-      "user_appliances"
+      "user_appliances",
+      "recipes"
     ],
     "dependencies": {},
     "dependents": [],
