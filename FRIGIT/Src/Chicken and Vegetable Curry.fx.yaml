@@ -1,0 +1,106 @@
+"'Chicken and Vegetable Curry' As screen":
+    Fill: =RGBA(242, 242, 242, 1)
+    LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
+
+    Image3_4 As image:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =400
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: ='chicken-veg-curry-tf-228116661'
+        ImagePosition: =ImagePosition.Fill
+        OnSelect: =Navigate(Home)
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =640
+        ZIndex: =1
+
+    Label13_4 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(29, 174, 255, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Bold
+        Height: =70
+        Size: =21
+        Text: ="Chicken and Vegetable Curry"
+        Width: =560
+        X: =40
+        Y: =414
+        ZIndex: =2
+
+    Container9_4 As groupContainer.verticalAutoLayoutContainer:
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =607
+        LayoutDirection: =LayoutDirection.Vertical
+        LayoutMode: =LayoutMode.Auto
+        LayoutOverflowY: =LayoutOverflow.Scroll
+        RadiusBottomLeft: =4
+        RadiusBottomRight: =4
+        RadiusTopLeft: =4
+        RadiusTopRight: =4
+        Width: =507
+        X: =68
+        Y: =484
+        ZIndex: =3
+
+        Label16_4 As label:
+            AlignInContainer: =AlignInContainer.Start
+            BorderColor: =RGBA(0, 0, 0, 0)
+            BorderStyle: =BorderStyle.None
+            BorderThickness: =2
+            Color: =RGBA(51, 51, 51, 1)
+            DisabledBorderColor: =RGBA(0, 0, 0, 0)
+            DisabledColor: =RGBA(166, 166, 166, 1)
+            FocusedBorderThickness: =4
+            Font: =Font.'Segoe UI'
+            Height: =250
+            LayoutMinHeight: =70
+            LayoutMinWidth: =560
+            Size: =21
+            Text: |-
+                ="Boneless skinless chicken thigh: 450g
+                Onion: 1 whole
+                Garlic: 3 cloves
+                Carrots: 2 whole
+                Curry roux: 2 cubes
+                Potatoes: 2 whole"
+            VerticalAlign: =VerticalAlign.Top
+            Width: =560
+            ZIndex: =1
+
+        Label17_4 As label:
+            BorderColor: =RGBA(0, 0, 0, 0)
+            BorderStyle: =BorderStyle.None
+            BorderThickness: =2
+            Color: =RGBA(51, 51, 51, 1)
+            DisabledBorderColor: =RGBA(0, 0, 0, 0)
+            DisabledColor: =RGBA(166, 166, 166, 1)
+            FocusedBorderThickness: =4
+            Font: =Font.'Segoe UI'
+            Height: =1500
+            LayoutMinHeight: =70
+            LayoutMinWidth: =560
+            Size: =21
+            Text: |-
+                ="1.Prepare Chicken: Season the chicken pieces with salt and pepper. In a large skillet or pot, heat 1 tablespoon of oil over medium-high heat. Add the chicken pieces and cook until browned on all sides. Remove the chicken from the skillet and set aside.
+                2.Sauté Aromatics: In the same skillet, add the remaining tablespoon of oil. Add the chopped onion and cook until softened, about 3-4 minutes. Stir in the minced garlic and grated ginger, and cook for another minute until fragrant.
+                3.Add Vegetables: Add the diced bell pepper, carrots, zucchini, and cauliflower florets to the skillet. Cook for about 5 minutes, until the vegetables start to soften slightly.
+                4.Spice it Up: Sprinkle the curry powder, ground turmeric, ground cumin, ground coriander, and cayenne pepper over the vegetables. Stir well to coat the vegetables with the spices.
+                5.Simmer: Pour in the diced tomatoes (with their juices) and coconut milk. Stir to combine. Bring the mixture to a simmer.
+                6.Cook Chicken: Return the cooked chicken pieces to the skillet, along with any juices that may have accumulated. Stir to combine. Reduce the heat to low, cover the skillet, and let the curry simmer gently for about 15-20 minutes, or until the chicken is cooked through and the vegetables are tender.
+                7.Adjust Seasoning: Taste the curry and adjust the seasoning with salt and pepper if needed.
+                Serve: Serve the chicken vegetable curry hot, garnished with fresh chopped cilantro. Serve with cooked rice or naan bread on the side."
+            VerticalAlign: =VerticalAlign.Top
+            Width: =507
+            ZIndex: =2
+

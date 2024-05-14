@@ -1,0 +1,103 @@
+"'Lemon Garlic Salmon' As screen":
+    Fill: =RGBA(242, 242, 242, 1)
+    LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
+
+    Image3 As image:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =400
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: ='skillet-seared-salmon-garlic-lemon-butter-sauce-9-1252749800'
+        ImagePosition: =ImagePosition.Fill
+        OnSelect: =Navigate(Home)
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =640
+        ZIndex: =1
+
+    Label13 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(29, 174, 255, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Bold
+        Height: =70
+        Size: =21
+        Text: ="Lemon Garlic Salmon"
+        Width: =560
+        X: =40
+        Y: =414
+        ZIndex: =2
+
+    Container9 As groupContainer.verticalAutoLayoutContainer:
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =607
+        LayoutDirection: =LayoutDirection.Vertical
+        LayoutMode: =LayoutMode.Auto
+        LayoutOverflowY: =LayoutOverflow.Scroll
+        RadiusBottomLeft: =4
+        RadiusBottomRight: =4
+        RadiusTopLeft: =4
+        RadiusTopRight: =4
+        Width: =507
+        X: =68
+        Y: =484
+        ZIndex: =3
+
+        Label16 As label:
+            AlignInContainer: =AlignInContainer.Start
+            BorderColor: =RGBA(0, 0, 0, 0)
+            BorderStyle: =BorderStyle.None
+            BorderThickness: =2
+            Color: =RGBA(51, 51, 51, 1)
+            DisabledBorderColor: =RGBA(0, 0, 0, 0)
+            DisabledColor: =RGBA(166, 166, 166, 1)
+            FocusedBorderThickness: =4
+            Font: =Font.'Segoe UI'
+            Height: =210
+            LayoutMinHeight: =70
+            LayoutMinWidth: =560
+            Size: =21
+            Text: |-
+                ="Salmon fillet:1
+                Lemon: 1 whole
+                Garlic: 1 clove
+                Olive oil: as required
+                Asparagus: 1 cup
+                Cherry tomatoes: 1 cup"
+            VerticalAlign: =VerticalAlign.Top
+            Width: =560
+            ZIndex: =2
+
+        Label17 As label:
+            BorderColor: =RGBA(0, 0, 0, 0)
+            BorderStyle: =BorderStyle.None
+            BorderThickness: =2
+            Color: =RGBA(51, 51, 51, 1)
+            DisabledBorderColor: =RGBA(0, 0, 0, 0)
+            DisabledColor: =RGBA(166, 166, 166, 1)
+            FocusedBorderThickness: =4
+            Font: =Font.'Segoe UI'
+            Height: =530
+            LayoutMinHeight: =70
+            LayoutMinWidth: =560
+            Size: =21
+            Text: |-
+                ="
+                1. Preheat oven to 200 degrees celcius. Wash and chop vegetables
+                2.In a bowl, toss the salmon fillet with lemon juice, minced garlic, olive oil, and salt/pepper to taste. Ensure the seasonning coats the salmon evenly
+                3.Arrange the vegetables on a baking sheet in a single layer. Place the seasoned salmon fillet on top of thee vegetables.
+                4.Roast in oven for 15-20 minutes, or until the salmon is cooked through and flakes easily with a fork. The vegetables should be tender-crisp"
+            VerticalAlign: =VerticalAlign.Top
+            Width: =507
+            ZIndex: =3
+
