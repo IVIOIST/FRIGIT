@@ -5,6 +5,7 @@
       "ControlPropertyState": [
         "DisplayName",
         "Description",
+        "Step1",
         "TestStepsMetadata"
       ],
       "HasDynamicProperties": false,
@@ -34,6 +35,11 @@
         {
           "Category": "Data",
           "PropertyName": "TestStepsMetadata",
+          "RuleProviderType": "Unknown"
+        },
+        {
+          "Category": "Behavior",
+          "PropertyName": "Step1",
           "RuleProviderType": "Unknown"
         }
       ],
@@ -80,7 +86,7 @@
       "StyleName": "",
       "Type": "ControlInfo"
     },
-    "f3287ca3-248a-477b-8bd3-e5e960f1f961": {
+    "8d4b12e1-8250-4eaf-863d-405bbb32f47b": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "DisplayName",
@@ -95,9 +101,9 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "f3287ca3-248a-477b-8bd3-e5e960f1f961",
+      "Name": "8d4b12e1-8250-4eaf-863d-405bbb32f47b",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 1,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -114,7 +120,7 @@
       "StyleName": "",
       "Type": "ControlInfo"
     },
-    "fe7f7671-8b47-42e3-98ed-3c3e5e3a62ca": {
+    "9771dc74-bce8-4b90-87e7-e57d8f02d4af": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "DisplayName",
@@ -129,7 +135,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "fe7f7671-8b47-42e3-98ed-3c3e5e3a62ca",
+      "Name": "9771dc74-bce8-4b90-87e7-e57d8f02d4af",
       "OptimizeForDevices": "Off",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
