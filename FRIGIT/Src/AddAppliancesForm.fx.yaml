@@ -74,12 +74,12 @@
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="Title"
-            Default: =ThisItem.Título
+            Default: =ThisItem.Title
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@user_appliances],DataSourceInfo.DisplayName,Título)
+            DisplayName: =DataSourceInfo([@user_appliances],DataSourceInfo.DisplayName,Title)
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
-            MaxLength: =DataSourceInfo([@user_appliances], DataSourceInfo.MaxLength, Título)
+            MaxLength: =DataSourceInfo([@user_appliances], DataSourceInfo.MaxLength, Title)
             Required: =false
             Update: =DataCardValue1.Text
             Width: =640
