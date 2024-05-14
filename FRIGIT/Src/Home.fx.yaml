@@ -62,7 +62,6 @@ Home As screen:
             TemplatePadding: =0
             TemplateSize: =200
             Width: =507
-            Y: =40
             ZIndex: =1
 
             Image2 As image:
