@@ -88,6 +88,8 @@
             FocusedBorderThickness: =4
             Font: =Font.'Segoe UI'
             Height: =1500
+            LayoutMinHeight: =70
+            LayoutMinWidth: =560
             Size: =21
             Text: |-
                 ="1.Prepare the Turkey Mixture: In a large mixing bowl, combine the ground turkey, breadcrumbs, finely chopped onion, minced garlic, Worcestershire sauce, dried oregano, dried thyme, paprika, salt, and pepper. Use your hands or a spoon to mix everything together until well combined. Be careful not to overmix, as this can result in tough burgers.
