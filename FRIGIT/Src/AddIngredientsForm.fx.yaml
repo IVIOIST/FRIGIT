@@ -75,12 +75,12 @@
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="Title"
-            Default: =ThisItem.Title
+            Default: =ThisItem.Título
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@user_ingredients],DataSourceInfo.DisplayName,Title)
+            DisplayName: =DataSourceInfo([@user_ingredients],DataSourceInfo.DisplayName,Título)
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
-            MaxLength: =DataSourceInfo([@user_ingredients], DataSourceInfo.MaxLength, Title)
+            MaxLength: =DataSourceInfo([@user_ingredients], DataSourceInfo.MaxLength, Título)
             Required: =false
             Update: =DataCardValue6.Text
             Width: =640
