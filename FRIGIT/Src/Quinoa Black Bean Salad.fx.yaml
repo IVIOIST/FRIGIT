@@ -1,0 +1,106 @@
+"'Quinoa Black Bean Salad' As screen":
+    Fill: =RGBA(242, 242, 242, 1)
+    LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
+
+    Image3_2 As image:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =400
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: ='IMG_0559edit-3423495678'
+        ImagePosition: =ImagePosition.Fill
+        OnSelect: =Navigate(Home)
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =640
+        ZIndex: =1
+
+    Label13_2 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(29, 174, 255, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Bold
+        Height: =70
+        Size: =21
+        Text: ="Quinoa Black Bean Salad"
+        Width: =560
+        X: =40
+        Y: =414
+        ZIndex: =2
+
+    Container9_2 As groupContainer.verticalAutoLayoutContainer:
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =607
+        LayoutDirection: =LayoutDirection.Vertical
+        LayoutMode: =LayoutMode.Auto
+        LayoutOverflowY: =LayoutOverflow.Scroll
+        RadiusBottomLeft: =4
+        RadiusBottomRight: =4
+        RadiusTopLeft: =4
+        RadiusTopRight: =4
+        Width: =507
+        X: =68
+        Y: =484
+        ZIndex: =3
+
+        Label16_2 As label:
+            AlignInContainer: =AlignInContainer.Start
+            BorderColor: =RGBA(0, 0, 0, 0)
+            BorderStyle: =BorderStyle.None
+            BorderThickness: =2
+            Color: =RGBA(51, 51, 51, 1)
+            DisabledBorderColor: =RGBA(0, 0, 0, 0)
+            DisabledColor: =RGBA(166, 166, 166, 1)
+            FocusedBorderThickness: =4
+            Font: =Font.'Segoe UI'
+            Height: =250
+            LayoutMinHeight: =70
+            LayoutMinWidth: =560
+            Size: =21
+            Text: |-
+                ="Quinoa: 1 cup
+                Black beans: 200g
+                Red Bell Pepper: 1 whole
+                Tomatoes: 2 whole
+                Avocado: 1
+                Limes: 2
+                Red  onion: 1 whole"
+            VerticalAlign: =VerticalAlign.Top
+            Width: =560
+            ZIndex: =1
+
+        Label17_2 As label:
+            BorderColor: =RGBA(0, 0, 0, 0)
+            BorderStyle: =BorderStyle.None
+            BorderThickness: =2
+            Color: =RGBA(51, 51, 51, 1)
+            DisabledBorderColor: =RGBA(0, 0, 0, 0)
+            DisabledColor: =RGBA(166, 166, 166, 1)
+            FocusedBorderThickness: =4
+            Font: =Font.'Segoe UI'
+            Height: =1200
+            LayoutMinHeight: =70
+            LayoutMinWidth: =560
+            Size: =21
+            Text: |-
+                ="
+                1.Cook Quinoa: Rinse quinoa under cold water using a fine-mesh sieve. In a medium saucepan, combine quinoa with 2 cups of water. Bring to a boil, then reduce heat to low, cover, and simmer for 15-20 minutes, or until quinoa is cooked and water is absorbed. Remove from heat and let it cool.
+                2.Prepare Dressing: In a small bowl, whisk together lime juice, olive oil, ground cumin, salt, and pepper. Adjust seasoning according to taste.
+                3.Combine Ingredients: In a large mixing bowl, combine cooked quinoa, black beans, diced red bell pepper, cherry tomatoes, chopped red onion, and chopped cilantro. If using avocado, gently fold it in at this stage.
+                4.Add Dressing: Pour the dressing over the salad and toss gently to combine, ensuring all ingredients are evenly coated.
+                5.Chill (Optional): If time allows, refrigerate the salad for about 30 minutes to allow the flavors to meld together.
+                6.Serve: Once chilled, transfer the salad to a serving bowl or individual plates. If desired, top with optional toppings such as diced jalapeño, crumbled feta cheese, or sliced green onions."
+            VerticalAlign: =VerticalAlign.Top
+            Width: =507
+            ZIndex: =2
+
