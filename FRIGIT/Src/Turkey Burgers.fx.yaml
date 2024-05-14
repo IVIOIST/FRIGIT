@@ -1,0 +1,105 @@
+"'Turkey Burgers' As screen":
+    Fill: =RGBA(242, 242, 242, 1)
+    LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
+
+    Image3_3 As image:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =400
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: ='Grilled-Turkey-Burgers-square-2150379962'
+        ImagePosition: =ImagePosition.Fill
+        OnSelect: =Navigate(Home)
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =640
+        ZIndex: =1
+
+    Label13_3 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(29, 174, 255, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Bold
+        Height: =70
+        Size: =21
+        Text: ="Turkey Burgers"
+        Width: =560
+        X: =40
+        Y: =414
+        ZIndex: =2
+
+    Container9_3 As groupContainer.verticalAutoLayoutContainer:
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =607
+        LayoutDirection: =LayoutDirection.Vertical
+        LayoutMode: =LayoutMode.Auto
+        LayoutOverflowY: =LayoutOverflow.Scroll
+        RadiusBottomLeft: =4
+        RadiusBottomRight: =4
+        RadiusTopLeft: =4
+        RadiusTopRight: =4
+        Width: =507
+        X: =68
+        Y: =484
+        ZIndex: =3
+
+        Label16_3 As label:
+            AlignInContainer: =AlignInContainer.Start
+            BorderColor: =RGBA(0, 0, 0, 0)
+            BorderStyle: =BorderStyle.None
+            BorderThickness: =2
+            Color: =RGBA(51, 51, 51, 1)
+            DisabledBorderColor: =RGBA(0, 0, 0, 0)
+            DisabledColor: =RGBA(166, 166, 166, 1)
+            FocusedBorderThickness: =4
+            Font: =Font.'Segoe UI'
+            Height: =250
+            LayoutMinHeight: =70
+            LayoutMinWidth: =560
+            Size: =21
+            Text: |-
+                ="Ground turkey: 450g
+                Breadcrumbs: 1/4 cup
+                Garlic: 1 clove
+                Ketchup, mustard: to liking
+                Burger buns: 2
+                Lettuce: to liking"
+            VerticalAlign: =VerticalAlign.Top
+            Width: =560
+            ZIndex: =1
+
+        Label17_3 As label:
+            BorderColor: =RGBA(0, 0, 0, 0)
+            BorderStyle: =BorderStyle.None
+            BorderThickness: =2
+            Color: =RGBA(51, 51, 51, 1)
+            DisabledBorderColor: =RGBA(0, 0, 0, 0)
+            DisabledColor: =RGBA(166, 166, 166, 1)
+            FocusedBorderThickness: =4
+            Font: =Font.'Segoe UI'
+            Height: =1500
+            LayoutMinHeight: =70
+            LayoutMinWidth: =560
+            Size: =21
+            Text: |-
+                ="1.Prepare the Turkey Mixture: In a large mixing bowl, combine the ground turkey, breadcrumbs, finely chopped onion, minced garlic, Worcestershire sauce, dried oregano, dried thyme, paprika, salt, and pepper. Use your hands or a spoon to mix everything together until well combined. Be careful not to overmix, as this can result in tough burgers.
+                2.Form Patties: Divide the turkey mixture into 4 equal portions. Shape each portion into a patty, about 1/2 to 3/4 inch thick. Make an indentation in the center of each patty with your thumb to prevent them from bulging while cooking.
+                3.Preheat Grill or Skillet: Preheat your grill or a skillet over medium-high heat. If using a skillet, lightly oil the surface to prevent sticking.
+                4.Cook Burgers: Once the grill or skillet is hot, place the turkey patties on the cooking surface. Cook for about 5-6 minutes on each side, or until the burgers are cooked through and reach an internal temperature of 165°F (75°C). Avoid pressing down on the burgers while cooking, as this can cause them to dry out.
+                5.Toast Buns: While the burgers are cooking, you can optionally toast the burger buns on the grill or in a toaster until lightly golden.
+                6.Assemble Burgers: Once the turkey burgers are cooked, remove them from the grill or skillet. Place each burger on a bun and add your desired toppings, such as lettuce, tomato, onion slices, cheese, condiments, etc.
+                7.Serve: Serve the turkey burgers immediately while they're still warm and enjoy!"
+            VerticalAlign: =VerticalAlign.Top
+            Width: =507
+            ZIndex: =2
+

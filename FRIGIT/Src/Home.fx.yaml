@@ -75,6 +75,7 @@ Home As screen:
                 HoverBorderColor: =RGBA(0, 0, 0, 0)
                 HoverFill: =RGBA(0, 0, 0, 0)
                 Image: =ThisItem.image
+                ImagePosition: =ImagePosition.Fill
                 OnSelect: =Select(Parent)
                 PressedBorderColor: =RGBA(0, 0, 0, 0)
                 PressedFill: =RGBA(0, 0, 0, 0)
@@ -129,7 +130,21 @@ Home As screen:
                 Color: =RGBA(166, 166, 166, 1)
                 Height: =50
                 Icon: =Icon.ChevronRight
-                OnSelect: =Select(Parent)
+                OnSelect: |-
+                    =Switch(
+                        ThisItem.Title,
+                        "Lemon Garlic Salmon",
+                        Navigate('Lemon Garlic Salmon'),
+                        "Lentil Soup",
+                        Navigate('Lentil Soup'),
+                        "Quinoa Black Bean Salad",
+                        Navigate('Quinoa Black Bean Salad'),
+                        "Chicken and Vegetable Curry",
+                        Navigate('Chicken and Vegetable Curry'),
+                        "Turkey Burgers",
+                        Navigate('Turkey Burgers'),
+                        Navigate(Home)
+                    )
                 PaddingBottom: =16
                 PaddingLeft: =16
                 PaddingRight: =16
