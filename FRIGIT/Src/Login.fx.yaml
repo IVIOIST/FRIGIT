@@ -203,9 +203,9 @@ Login As screen:
             RadiusTopLeft: =9
             RadiusTopRight: =9
             Text: ="Sign In"
-            Width: =246
-            X: =77
-            Y: =399
+            Width: =239
+            X: =45
+            Y: =316
             ZIndex: =4
 
         Icon4 As icon.View:
@@ -285,4 +285,24 @@ Login As screen:
             Width: =183
             X: =45
             ZIndex: =8
+
+        Label14 As label:
+            Align: =Align.Center
+            BorderColor: =RGBA(0, 0, 0, 0)
+            BorderStyle: =BorderStyle.None
+            BorderThickness: =2
+            Color: =RGBA(29, 174, 255, 1)
+            DisabledBorderColor: =RGBA(0, 0, 0, 0)
+            DisabledColor: =RGBA(166, 166, 166, 1)
+            FocusedBorderThickness: =4
+            Font: =Font.'Segoe UI'
+            FontWeight: =FontWeight.Semibold
+            Height: =42
+            OnSelect: =Navigate(Signup)
+            Size: =13
+            Text: ="Sign Up"
+            Width: =74
+            X: =291
+            Y: =319
+            ZIndex: =9
 
