@@ -11,7 +11,7 @@
   },
   "Properties": {
     "AppCreationSource": "AppFromFigma",
-    "AppDescription": "",
+    "AppDescription": "new version",
     "AppPreviewFlagsMap": {
       "aibuilderserviceenrollment": false,
       "allowmultiplescreensincanvaspages": false,
@@ -116,7 +116,7 @@
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "",
     "ManualOfflineProfileId": "",
-    "Name": "6e103e1b-4fd3-4a92-953e-1d63167c56e4",
+    "Name": "Frigit app",
     "OriginatingVersion": "1.326",
     "ParserErrorCount": 6,
     "ShowStatusBar": false
