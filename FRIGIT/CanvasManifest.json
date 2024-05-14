@@ -11,7 +11,7 @@
   },
   "Properties": {
     "AppCreationSource": "AppFromFigma",
-    "AppDescription": "",
+    "AppDescription": "new version",
     "AppPreviewFlagsMap": {
       "aibuilderserviceenrollment": false,
       "allowmultiplescreensincanvaspages": false,
@@ -99,7 +99,7 @@
       "zeroalltabindexes": true
     },
     "Author": "",
-    "BindingErrorCount": 4,
+    "BindingErrorCount": 3,
     "ContainsThirdPartyPcfControls": false,
     "DefaultConnectedDataSourceMaxGetRowsCount": 500,
     "DocumentAppType": "Phone",
@@ -118,7 +118,7 @@
     "ManualOfflineProfileId": "",
     "Name": "Frigit app",
     "OriginatingVersion": "1.326",
-    "ParserErrorCount": 7,
+    "ParserErrorCount": 6,
     "ShowStatusBar": false
   },
   "PublishInfo": {
@@ -133,12 +133,12 @@
     "UserLocale": "en-US"
   },
   "ScreenOrder": [
+    "Login",
     "Home",
     "Kitchen",
     "Settings",
-    "Login",
-    "Preference",
     "AddIngredientsForm",
-    "AddAppliancesForm"
+    "AddAppliancesForm",
+    "Preference"
   ]
 }
