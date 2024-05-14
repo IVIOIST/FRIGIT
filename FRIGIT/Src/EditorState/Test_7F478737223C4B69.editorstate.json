@@ -5,7 +5,6 @@
       "ControlPropertyState": [
         "DisplayName",
         "Description",
-        "Step1",
         "TestStepsMetadata"
       ],
       "HasDynamicProperties": false,
@@ -35,11 +34,6 @@
         {
           "Category": "Data",
           "PropertyName": "TestStepsMetadata",
-          "RuleProviderType": "Unknown"
-        },
-        {
-          "Category": "Behavior",
-          "PropertyName": "Step1",
           "RuleProviderType": "Unknown"
         }
       ],

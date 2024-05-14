@@ -82,7 +82,7 @@ Kitchen As screen:
                 PaddingLeft: =0
                 PaddingRight: =0
                 PaddingTop: =0
-                Text: =ThisItem.Título
+                Text: =ThisItem.Title
                 VerticalAlign: =VerticalAlign.Top
                 Width: =Parent.TemplateWidth - 86
                 X: =16
@@ -141,7 +141,7 @@ Kitchen As screen:
                 HoverFill: =RGBA(0, 0, 0, 0)
                 Icon: =Icon.ShoppingCart
                 OnSelect: |-
-                    =Launch("https://www.coles.com.au/search/products?q="&ThisItem.Título)
+                    =Launch("https://www.coles.com.au/search/products?q="&ThisItem.Title)
                 PaddingBottom: =16
                 PaddingLeft: =16
                 PaddingRight: =16
@@ -301,7 +301,7 @@ Kitchen As screen:
                 PaddingLeft: =0
                 PaddingRight: =0
                 PaddingTop: =0
-                Text: =ThisItem.Título
+                Text: =ThisItem.Title
                 VerticalAlign: =VerticalAlign.Top
                 Width: =Parent.TemplateWidth - Image9.Width - 137
                 X: =91

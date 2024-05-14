@@ -18,7 +18,8 @@
       "user_logins",
       "user_appliances",
       "user_ingredients",
-      "user_preferences"
+      "user_preferences",
+      "recipes"
     ],
     "dependencies": {},
     "dependents": [],
