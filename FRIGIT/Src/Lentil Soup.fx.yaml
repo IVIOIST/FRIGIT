@@ -1,0 +1,104 @@
+"'Lentil Soup' As screen":
+    Fill: =RGBA(242, 242, 242, 1)
+    LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
+
+    Image3_1 As image:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =400
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: ='madras-lentil-soup-recipe-2-2279978894'
+        ImagePosition: =ImagePosition.Fill
+        OnSelect: =Navigate(Home)
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =640
+        ZIndex: =1
+
+    Label13_1 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(29, 174, 255, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Bold
+        Height: =70
+        Size: =21
+        Text: ="Lentil Soup"
+        Width: =560
+        X: =40
+        Y: =414
+        ZIndex: =2
+
+    Container9_1 As groupContainer.verticalAutoLayoutContainer:
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =607
+        LayoutDirection: =LayoutDirection.Vertical
+        LayoutMode: =LayoutMode.Auto
+        LayoutOverflowY: =LayoutOverflow.Scroll
+        RadiusBottomLeft: =4
+        RadiusBottomRight: =4
+        RadiusTopLeft: =4
+        RadiusTopRight: =4
+        Width: =507
+        X: =68
+        Y: =484
+        ZIndex: =3
+
+        Label16_1 As label:
+            AlignInContainer: =AlignInContainer.Start
+            BorderColor: =RGBA(0, 0, 0, 0)
+            BorderStyle: =BorderStyle.None
+            BorderThickness: =2
+            Color: =RGBA(51, 51, 51, 1)
+            DisabledBorderColor: =RGBA(0, 0, 0, 0)
+            DisabledColor: =RGBA(166, 166, 166, 1)
+            FocusedBorderThickness: =4
+            Font: =Font.'Segoe UI'
+            Height: =210
+            LayoutMinHeight: =70
+            LayoutMinWidth: =560
+            Size: =21
+            Text: |-
+                ="Dried lentils: 1 cup
+                Onion: 1 whole
+                Carrots: 2 whole
+                Cumin, Salt, Pepper, Parika: to taste
+                Chicken broth: 200mL
+                Garlic: 3 cloves"
+            VerticalAlign: =VerticalAlign.Top
+            Width: =560
+            ZIndex: =1
+
+        Label17_1 As label:
+            BorderColor: =RGBA(0, 0, 0, 0)
+            BorderStyle: =BorderStyle.None
+            BorderThickness: =2
+            Color: =RGBA(51, 51, 51, 1)
+            DisabledBorderColor: =RGBA(0, 0, 0, 0)
+            DisabledColor: =RGBA(166, 166, 166, 1)
+            FocusedBorderThickness: =4
+            Font: =Font.'Segoe UI'
+            Height: =1200
+            LayoutMinHeight: =70
+            LayoutMinWidth: =560
+            Size: =21
+            Text: |-
+                ="
+                1.Prepare the Lentils: Rinse the lentils under cold water in a fine-mesh sieve and remove any debris or stones.2.Sauté Aromatics: Heat olive oil in a large pot over medium heat. Add diced onion, carrots, and celery. Sauté until the vegetables are softened, about 5-7 minutes. Add minced garlic and sauté for another minute until fragrant.
+                3.Add Spices: Stir in the ground cumin, ground coriander, paprika, salt, and pepper. Cook for an additional minute to toast the spices and release their flavors.
+                4.Combine Ingredients: Add the rinsed lentils, diced tomatoes (with their juices), and broth to the pot. Stir to combine all the ingredients.
+                5.Simmer: Bring the soup to a boil, then reduce the heat to low. Cover the pot and let the soup simmer gently for about 25-30 minutes, or until the lentils are tender.
+                6.Adjust Seasoning: Taste the soup and adjust the seasoning with salt and pepper if needed.Serve: Ladle the soup into bowls. Garnish with fresh chopped parsley or cilantro if desired. Serve hot with lemon wedges on the side for squeezing over the soup."
+            VerticalAlign: =VerticalAlign.Top
+            Width: =507
+            ZIndex: =2
+
