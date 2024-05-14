@@ -133,10 +133,10 @@
     "UserLocale": "en-US"
   },
   "ScreenOrder": [
+    "Login",
     "Home",
     "Kitchen",
     "Settings",
-    "Login",
     "AddIngredientsForm",
     "AddAppliancesForm",
     "Preference"
