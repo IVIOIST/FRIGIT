@@ -74,12 +74,12 @@
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="Title"
-            Default: =ThisItem.Title
+            Default: =ThisItem.Título
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@user_appliances],DataSourceInfo.DisplayName,Title)
+            DisplayName: =DataSourceInfo([@user_appliances],DataSourceInfo.DisplayName,Título)
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
-            MaxLength: =DataSourceInfo([@user_appliances], DataSourceInfo.MaxLength, Title)
+            MaxLength: =DataSourceInfo([@user_appliances], DataSourceInfo.MaxLength, Título)
             Required: =false
             Update: =DataCardValue1.Text
             Width: =640
@@ -192,7 +192,7 @@
             DataField: ="Image"
             Default: =ThisItem.Appliance_Image
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@user_appliances],DataSourceInfo.DisplayName,Image)
+            DisplayName: =DataSourceInfo([@user_appliances],DataSourceInfo.DisplayName,Appliance_Image)
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
             Required: =false
@@ -318,7 +318,7 @@
             DataField: ="Cooking_x0020_Method_x0028_s_x00"
             Default: =ThisItem.'Cooking Method(s)'
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@user_appliances],DataSourceInfo.DisplayName,Cooking_x0020_Method_x0028_s_x00)
+            DisplayName: =DataSourceInfo([@user_appliances],DataSourceInfo.DisplayName,'Cooking Method(s)')
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
             Required: =false
@@ -369,13 +369,13 @@
                 HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
                 HoverColor: =RGBA(51, 51, 51, 1)
                 HoverFill: =RGBA(212, 212, 212, 1)
-                Items: =Choices([@user_appliances].Cooking_x0020_Method_x0028_s_x00)
+                Items: =Choices([@user_appliances].'Cooking Method(s)')
                 PaddingLeft: =If(Self.DisplayMode = DisplayMode.Edit, 5, 0)
                 PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
                 PressedColor: =RGBA(255, 255, 255, 1)
                 PressedFill: =RGBA(0, 120, 212, 1)
                 SearchFields: =["Value"]
-                SearchItems: =Choices(user_appliances.Cooking_x0020_Method_x0028_s_x00,DataCardValue2.SearchText)
+                SearchItems: =Choices(user_appliances.'Cooking Method(s)',DataCardValue2.SearchText)
                 SelectionFill: =RGBA(0, 120, 212, 1)
                 Size: =21
                 Tooltip: =Parent.DisplayName
