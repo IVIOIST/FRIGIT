@@ -137,8 +137,8 @@
     "Kitchen",
     "Settings",
     "Login",
-    "Preference",
     "AddIngredientsForm",
-    "AddAppliancesForm"
+    "AddAppliancesForm",
+    "Preference"
   ]
 }
