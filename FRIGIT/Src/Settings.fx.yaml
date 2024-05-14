@@ -490,3 +490,33 @@ Settings As screen:
             Y: =1014
             ZIndex: =14
 
+    Button3_2 As button:
+        Align: =Align.Right
+        BorderColor: =RGBA(0, 0, 0, 0)
+        Color: =RGBA(29, 174, 255, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Semibold
+        Height: =56
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(29, 174, 255, 1)
+        HoverFill: =RGBA(255,255,255,1)
+        OnSelect: =Navigate(Login)
+        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
+        PressedColor: =RGBA(29, 174, 255, 1)
+        PressedFill: =RGBA(255,255,255, 1)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =24
+        Text: ="Sign Out"
+        Width: =142
+        X: =414
+        Y: =164
+        ZIndex: =15
+
