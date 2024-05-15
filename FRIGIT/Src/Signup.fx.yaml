@@ -529,7 +529,7 @@
                 Height: =48
                 PaddingLeft: =0
                 Size: =21
-                Text: =Parent.DisplayName
+                Text: ="Email"
                 Width: =Parent.Width - 60
                 Wrap: =false
                 X: =30
@@ -645,7 +645,7 @@
                 Height: =48
                 PaddingLeft: =0
                 Size: =21
-                Text: =Parent.DisplayName
+                Text: ="Password"
                 Width: =Parent.Width - 60
                 Wrap: =false
                 X: =30
