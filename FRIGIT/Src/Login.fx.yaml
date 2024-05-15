@@ -90,11 +90,11 @@ Login As screen:
             Font: =Font.'Segoe UI'
             Height: =70
             Size: =11
-            Text: ="Incorrect Email or Password"
+            Text: ="Incorrect Username or Password"
             Visible: =labeltxt
-            Width: =213
-            X: =97
-            Y: =346
+            Width: =237
+            X: =53
+            Y: =339
             ZIndex: =3
 
         Button2 As button:

@@ -34,8 +34,10 @@
       "image": "image",
       "Modified": "Modified",
       "OData__ColorTag": "Color Tag",
+      "recipe_appliances": "recipe_appliances",
       "recipe_ingredients": "recipe_ingredients",
       "recipe_instructions": "recipe_instructions",
+      "recipe_preferences": "recipe_preferences",
       "Title": "Title"
     },
     "DatasetName": "https://unisydneyedu.sharepoint.com/sites/FRIGIT",
