@@ -11,7 +11,7 @@
   },
   "Properties": {
     "AppCreationSource": "AppFromFigma",
-    "AppDescription": "new version",
+    "AppDescription": "Latest version as of 15/05/2024 fixing typos in sign in page",
     "AppPreviewFlagsMap": {
       "aibuilderserviceenrollment": false,
       "allowmultiplescreensincanvaspages": false,
