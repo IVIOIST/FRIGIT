@@ -1,6 +1,6 @@
 "AddIngredientsForm As screen.'phoneLayout_HeaderAndForm_ver3.0'":
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
-    OnVisible: =
+    OnVisible: =FormMode.New
 
     RectQuickActionBar2 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -67,6 +67,7 @@
         DataSource: =user_ingredients
         DefaultMode: =FormMode.New
         Height: =Parent.Height - EditForm2.Y
+        Visible: =FormMode.New
         Width: =Parent.Width
         Y: =RectQuickActionBar2.Height
         ZIndex: =5

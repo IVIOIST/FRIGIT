@@ -1,6 +1,7 @@
 Kitchen As screen:
     Fill: =RGBA(242, 242, 242, 1)
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
+    OnVisible: =
 
     Label1_3 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
