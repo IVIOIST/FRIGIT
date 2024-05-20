@@ -67,6 +67,9 @@
         DataSource: =user_ingredients
         DefaultMode: =FormMode.New
         Height: =Parent.Height - EditForm2.Y
+        OnFailure: =FormMode.New
+        OnReset: =FormMode.New
+        OnSuccess: =FormMode.New
         Visible: =FormMode.New
         Width: =Parent.Width
         Y: =RectQuickActionBar2.Height
